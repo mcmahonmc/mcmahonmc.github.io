@@ -2,7 +2,7 @@
 title: NextGen Gig Economy
 date: 2024-05-22
 subtitle: Strategy
-image: '/images/projects/teen-accounts/fiverr-header.png'
+image: '/images/projects/teen-accounts/fiverr-header-transparent.png'
 ---
 
 There are 32M teens in the US without an online marketplace that
