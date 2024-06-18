@@ -27,8 +27,9 @@ author:
 
 social:
 - {icon: "ion-logo-linkedin", link: "https://linkedin.com/in/mcmahonmc"}
-- {icon: "ion-logo-instagram", link: "https://www.instagram.com/meganmcmahonhandmade/"}
 - {icon: "ion-logo-github", link: "https://github.com/mcmahonmc"}
+- {icon: "ion-logo-school", link: "https://scholar.google.com/citations?user=gQt3NCoAAAAJ&hl=en"}
+- {icon: "ion-logo-instagram", link: "https://www.instagram.com/meganmcmahonhandmade/"}
 
 # Example of adding a new link to the footer - {icon: "ion-logo-dribbble", link: "https://dribbble.com"}
 # Other icons can be found at https://ionicons.com/v4/
