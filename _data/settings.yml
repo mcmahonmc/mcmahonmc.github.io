@@ -22,7 +22,7 @@ menu__settings:
 # Author Settings
 author:
   author__name: Megan McMahon
-  author__bio: Connect with me about new opportunities, speaking engagements, and mentorship.
+  author__bio: UX Researcher
   author__avatar: '/images/me/02.png'
 
 social:
@@ -53,7 +53,7 @@ mailchimp__button__text: Get updates
 #-------------------------------
 # Projects Settings
 projects__settings:
-  projects__title: Portfolio
+  projects__title: Research Portfolio
   projects__description: A sample of my recent UX research projects <br> across e-commerce and digital health
 
 
