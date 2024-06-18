@@ -130,7 +130,7 @@ footer_menu__settings:
 #-------------------------------
 # Contact Settings
 contact:
-  email: meg.c.mcmahon@gmail.com # Add your form_id
+  email: meqyybdk # Add your form_id
   description: Connect with me about new opportunities, speaking engagements, and mentorship. # Add a description of your form
 
 # NOTE
@@ -144,4 +144,4 @@ disqus-identifier: meganmcmahon # Add your shortname for Disqus Comment. For exa
 
 #-------------------------------
 # Google Analytics
-google-analytics: # Add your GA Tracking Id
+google-analytics: G-83CQW3WFGC # Add your GA Tracking Id
