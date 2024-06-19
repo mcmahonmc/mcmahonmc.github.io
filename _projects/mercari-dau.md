@@ -57,19 +57,11 @@ I used [EnjoyHQ](https://www.usertesting.com/platform/enjoyhq) to review, tag, a
 
 # Key Takeaways
 
-## The predominant motivations on Mercari are (1) to make money and (2) to find deals. 
-These were followed by (3) decluttering and (4) find unique or rare items.
-Promoting sustainability seemed to resonate more so with overlappers and sellers.
-High LTV were more likely to use Mercari to make money as a primary income stream and to grow a collection. 
-Low LTV were more likely to use Mercari for more than one primary reason.
+* __What do people want?__ The predominant motivations on Mercari are (1) to make money and (2) to find deals. Across segments, promoting sustainability seemed to resonate more so with overlappers and sellers, and customers with lower lifetime value tended to have more reasons for using Mercari.
 
-## But what separates us from the pack is our focus on simplicity, and our unique features: offers, ratings, and saved search.
-These create the perception that Mercari is trustworthy and transparent.
-Search helps people create a curated experience to find exactly what interests them, especially when the item is otherwise hard to find.
+* __What separates us from the pack?__ Our focus on simplicity, and our unique features: offers, ratings, and saved search. These create the perception that Mercari is trustworthy and transparent. Search helps people create a curated experience to find exactly what interests them, especially when the item is otherwise hard to find.
 
-## Our community is created through the ability to communicate directly with friendly, reasonable, and honest sellers.
-People love being able to communicate with another everyday human on the other side of a transaction.
-Several specifically mentioned they appreciate not needing to be “besties” or over-socialize on Mercari. They appreciate that interactions are purpose-driven and transaction-focused.
+* __What do our users most value?__ Our community is created through the ability to communicate directly with friendly, reasonable, and honest sellers. People love being able to communicate with another everyday human on the other side of a transaction. Several specifically mentioned they appreciate not needing to be “besties” or over-socialize on Mercari. They appreciate that interactions are purpose-driven and transaction-focused.
 
 <div class="gallery-box">
   <div class="gallery">

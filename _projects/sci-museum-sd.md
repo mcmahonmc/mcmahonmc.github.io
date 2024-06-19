@@ -1,7 +1,7 @@
 ---
-title: From Clueless to Compass
+title: High-Speed Service Design
 date: 2023-02-25
-subtitle: Tactical / Service Design • Science Museum of Virginia
+subtitle: Tactical • Science Museum of Virginia
 image: '/images/projects/science-museum/Science-Museum-of-Virginia-Parking-Deck-2.jpg'
 ---
 

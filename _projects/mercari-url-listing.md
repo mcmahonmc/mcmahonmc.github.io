@@ -2,7 +2,7 @@
 title: URL Listing
 date: 2024-04-01
 subtitle: Tactical / UX • Mercari
-image: '/images/projects/url-listing/ig.png'
+image: '/images/projects/url-listing/frame-1.png'
 ---
 
 Mercari wanted to enable experienced sellers to easily list many listings at once. We knew that many experienced sellers cross-post, or use multiple resale platforms simultaneously, to increase their exposure and maximize their chance of making a sale.
