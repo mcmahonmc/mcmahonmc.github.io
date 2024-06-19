@@ -1,7 +1,7 @@
 ---
 title: NextGen Gig Economy
 date: 2024-05-22
-subtitle: Strategy
+subtitle: Strategy / UX
 image: '/images/projects/teen-accounts/fiverr-header-transparent.png'
 ---
 

@@ -1,8 +1,8 @@
 ---
 title: Wrist Rhythms
 date: 2022-05-15
-subtitle: Academic
-image: '/images/projects/wrist-rhythms/defense-title-transparent.png'
+subtitle: Quantitative / Academic
+image: '/images/projects/wrist-rhythms/google-play.png'
 ---
 
 This research examined the instrumental validity of Fitbits for capturing human sleep and activity rhythms in order to promote well-being and trust in a self-service mobile app for community members participating in UT research.

@@ -1,7 +1,7 @@
 ---
 title: Measuring Momentum
 date: 2023-09-30
-subtitle: Benchmarking
+subtitle: Benchmarking / UX
 image: '/images/projects/benchmarking/dashboard-multiple-transparent.png'
 ---
 

@@ -10,8 +10,10 @@ color_scheme: auto # You can choose three modes auto, light, and dark. By defaul
 # Navigation Settings
 menu__settings:
   menu__items:
-    - title: 'Portfolio'
+    - title: 'Home'
       url: '/'
+    - title: 'Portfolio'
+      url: '/projects/'
     - title: 'About'
       url: '/about/'
     - title: 'Contact'
@@ -28,7 +30,7 @@ author:
 social:
 - {icon: "ion-logo-linkedin", link: "https://linkedin.com/in/mcmahonmc"}
 - {icon: "ion-logo-github", link: "https://github.com/mcmahonmc"}
-- {icon: "ion-logo-school", link: "https://scholar.google.com/citations?user=gQt3NCoAAAAJ&hl=en"}
+- {icon: "ion-logo-google", link: "https://scholar.google.com/citations?user=gQt3NCoAAAAJ&hl=en"}
 - {icon: "ion-logo-instagram", link: "https://www.instagram.com/meganmcmahonhandmade/"}
 
 # Example of adding a new link to the footer - {icon: "ion-logo-dribbble", link: "https://dribbble.com"}
@@ -54,7 +56,7 @@ mailchimp__button__text: Get updates
 #-------------------------------
 # Projects Settings
 projects__settings:
-  projects__title: Research Portfolio
+  projects__title: Portfolio
   projects__description: A sample of my recent UX research projects <br> across e-commerce and digital health
 
 
@@ -120,8 +122,10 @@ blog__settings:
 # Footer Navigation Settings
 footer_menu__settings:
   menu__items:
-    - title: 'Portfolio'
+    - title: 'Home'
       url: '/'
+    - title: 'Portfolio'
+      url: '/projects/'
     - title: 'About'
       url: '/about/'
     - title: 'Contact'

@@ -14,7 +14,7 @@
 
           <div class="row">
             {% assign sorted = site.projects | sort: 'date' | reverse %}
-            {% for project in sorted limit:6 %}
+            {% for project in sorted limit:4 %}
             <article class="project col col-6">
               <div class="project__content">
                 <a href="{{ project.url }}" class="project__image">
@@ -36,8 +36,8 @@
     </div>
   </div>
 
-  <!-- <div class="section__navigation">
+  <div class="section__navigation">
     <a href="{{ '/projects' | relative_url }}" class="button button--primary section-button">See all</a>
-  </div> -->
+  </div>
 </section>
 <!-- end projects -->

@@ -1,7 +1,7 @@
 ---
 title: URL Listing
 date: 2024-04-01
-subtitle: Tactical
+subtitle: Tactical / UX
 image: '/images/projects/url-listing/url-figma-4.png'
 ---
 
