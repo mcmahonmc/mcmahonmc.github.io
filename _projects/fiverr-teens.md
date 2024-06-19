@@ -18,8 +18,6 @@ goals, resulting in reduced resource allocation and risk.
 
 Should this directionbe re-prioritized, this research generated 17+ actionable recommendations for product development and marketing.
 
-
-
 <div class="gallery-box">
   <div class="gallery">
     <img src="/images/projects/teen-accounts/teen-accounts-tldr.png" loading="lazy" alt="TLDR">

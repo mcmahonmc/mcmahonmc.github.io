@@ -2,7 +2,7 @@
 # Site Settings
 title: Megan McMahon
 logo: # You can add own logo. For example '/images/logo.png'.
-description: Megan McMahon Research Portfolio
+description: Megan McMahon UX Research Portfolio
 color_scheme: auto # You can choose three modes auto, light, and dark. By default, the auto mode is set, which means the user can choose the light or dark mode themself.
 
 
@@ -42,7 +42,7 @@ social:
 hero:
   hero__title: Megan McMahon
   hero__description: UX Researcher • PhD • Richmond, VA
-  hero__image: '/images/02.png'
+  hero__image: 
 
 
 #-------------------------------
@@ -56,8 +56,8 @@ mailchimp__button__text: Get updates
 #-------------------------------
 # Projects Settings
 projects__settings:
-  projects__title: Portfolio
-  projects__description: A sample of my recent UX research projects <br> across e-commerce and digital health
+  projects__title: Case studies
+  projects__description:  Take a look through my research <br> spanning e-commerce and digital health.
 
 
 #-------------------------------
