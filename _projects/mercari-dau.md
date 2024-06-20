@@ -10,7 +10,7 @@ The typical Mercari user opens Mercari once or twice a week. But Mercari Japan u
 ## My Role
 I led research from project intake, study conceptualization, facilitation, analysis, and reporting. 
 
-Surveys • Diary study • Interviews • Sprig • EnjoyHQ
+*Surveys • Diary study • Interviews • Sprig • EnjoyHQ*
 
 # My Research Process
 

@@ -12,7 +12,7 @@ Mercari was on the cusp of developing three bold, new features. We needed a way 
 I conceptualized and developed a systematic benchmarking survey program to
 measure how our product aligned with company objectives and UX values over time, including ease of use, navigation, competitor engagement, & product performance.
 
-Live-intercept surveys • Looker • Statistics • Sprig
+*Live-intercept surveys • Looker • Statistics • Sprig*
 
 # Outcomes
 

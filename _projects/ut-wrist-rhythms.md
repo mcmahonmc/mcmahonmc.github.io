@@ -11,7 +11,7 @@ This research examined the instrumental validity of Fitbits for capturing human 
 
 I conducted this research as one of three dissertation studies. I led research design, study implementation, analyses, and publication preparation.
 
-Time-series analysis • Activity monitoring • Sleep diary • Surveys • Qualtrics
+*Time-series analysis • Activity monitoring • Sleep diary • Surveys • Qualtrics*
 
 # Outcomes
 Many aspects of activity rhythms, but not nightly sleep, were captured accurately by the Fitbit relative to a research-grade activity tracking device. Further, these activity rhythm measures were associated with multiple measures of psychological well-being, including happiness, sadness, rumination, and stress. These effects were weak to moderate, depending on the measure examined.

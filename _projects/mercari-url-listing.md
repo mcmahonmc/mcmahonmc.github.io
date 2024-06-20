@@ -14,11 +14,8 @@ An engineer proposed an idea at Go Bold Day, Mercari's bi-annual hackathon, to s
 # My Role
 Before moving forward with implementation, I sought to clarify some of the assumptions behind the new feature. Through conversations with product managers, engineers, and UX designers, we identified questions that would help us make sense of the problem space, size the opportunity, validate assumptions, and inform design requirements.
 
-# Tools
-* Contextual inquiry
-* Moderated usability testing
-* Live intercept survey
-* Behavioral analytics
+
+*Contextual inquiry • Moderated usability testing • Live intercept survey • Behavioral analytics*
 
 # Outcomes
 * __+395k__ new listings in 1 month

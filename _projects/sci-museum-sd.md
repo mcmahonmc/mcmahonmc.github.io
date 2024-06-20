@@ -14,6 +14,8 @@ We broke out into three groups to strategize and explore the museum. Each team m
 
 Independently, I produced artifacts summarizing the thinking that went into the live workshop that day. Altogether, this project took about 4 hours - pretty quick!
 
+*Service design • Journey mapping • Heuristic evaluation • Figma*
+
 <div class="gallery-box">
   <div class="gallery">
     <img src="/images/projects/science-museum/rvadesign-science-museum.jpg" loading="lazy" alt="TLDR">
