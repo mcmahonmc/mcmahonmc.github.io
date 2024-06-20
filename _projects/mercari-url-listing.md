@@ -7,7 +7,9 @@ image: '/images/projects/url-listing/frame-1.png'
 
 Mercari wanted to enable experienced sellers to easily list many listings at once. We knew that many experienced sellers cross-post, or use multiple resale platforms simultaneously, to increase their exposure and maximize their chance of making a sale.
 
-An engineer proposed an idea at Go Bold Day, Mercari's bi-annual hackathon, to simplify cross-posting for power sellers by creating an import tool that picks up metadata from other sites and easily populates the Mercari listing form. This idea won the company-wide hackathon and was pursued for development. [Check out the live feature.](https://www.mercari.com/us/import-listing/)
+An engineer proposed an idea at Go Bold Day, Mercari's bi-annual hackathon, to simplify cross-posting for power sellers by creating an import tool that picks up metadata from other sites and easily populates the Mercari listing form. This idea won the company-wide hackathon and was pursued for development. 
+
+[Check out the live feature here.](https://www.mercari.com/us/import-listing/)
 
 # My Role
 Before moving forward with implementation, I sought to clarify some of the assumptions behind the new feature. Through conversations with product managers, engineers, and UX designers, we identified questions that would help us make sense of the problem space, size the opportunity, validate assumptions, and inform design requirements.

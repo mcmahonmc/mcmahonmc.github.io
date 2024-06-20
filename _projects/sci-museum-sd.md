@@ -10,7 +10,9 @@ The [Science Museum of Virginia](https://smv.org) captivates hundreds of thousan
 I participated in a 2-hour workshop hosted by the [Richmond Design Group](https://www.linkedin.com/company/rvadsgn/), during which we conducted a heuristic analysis of the in-person Science Museum experience.
 
 ## My Role
-I participated in a workshop together with my team, where we each adopted the mindset of one of the science museum's key customers: a teacher, grandparent or parent, and a child. As we made our way through the museum, we took note of these museum goers' experiences using the 5 E's of the customer journey framework.
+We broke out into three groups to strategize and explore the museum. Each team member adopted the mindset of one of the science museum's key customers, for example: a teacher, grandparent or parent, and a child. As we made our way through the museum, we took note of these museum goers' experiences using the 5 E's of the customer journey framework. 
+
+Independently, I produced artifacts summarizing the thinking that went into the live workshop that day. Altogether, this project took about 4 hours - pretty quick!
 
 <div class="gallery-box">
   <div class="gallery">
@@ -25,7 +27,7 @@ I participated in a workshop together with my team, where we each adopted the mi
 
 ## Personas
 
-As design thinkers, we know it's important to always put ourselves in the shoes of our  customers. Who may visit the Science Museum of Virginia? What are their unique motivations and needs? We discussed this as a group, and came up with a handful of key customer segments. I later fleshed these out as lo-fi personas to help us undersatnd guests' needs, wants, and pain points. These personas were used to ground us in the mindsets of each of these types of guests as we completed the heuristic evaluation exercise. 
+Rather than consider our own personal experiences in the museum, we know that our core job as design thinkers is to put ourselves in the shoes of our users. Who may visit the Science Museum of Virginia? What are their unique motivations and needs? We discussed this as a group, and came up with a handful of key customer segments. I later fleshed these out as lo-fi personas to help us undersatnd guests' needs, wants, and pain points. These personas were used to ground us in the mindsets of each of these types of guests as we completed the heuristic evaluation exercise. 
 
 <div class="gallery-box">
   <div class="gallery">
@@ -44,30 +46,32 @@ As design thinkers, we know it's important to always put ourselves in the shoes 
 
 ## Customer Journey Mapping 
 
-We discussed the 5 E's framework to guide our thinking on how we might identify touchpoints and potential problems. We considered how customers might engage, enquire, explore, explain, and evaluate their expereiences with the Science Museum. 
+With our persona hats on, we explored the museum to identify touchpoints and potential problems associated with each of the 5 E's of the customer's journey: entice, enter, engage, exit, and extend.
 
 We spent the next few hours at the museum, observing visitor behavior and evaluating the experience. I adopted the mindset of "Grandpa Gus" imagining how he might think and feel as he made his way through his Science Museum experience. I mapped Gus' emotions at each stage of the customer journey represented by a color-coded dot to represent the overall picture of his emotional experience.
 
-It quickly became evident that there was a huge opportunity to improve wayfinding. As a previous museum volunteer, there were multiple occassions when I offered to lead the group to various exhibits. Without me there to shepherd them, we would not have known how to make the most of our museum experience in the short time we had.
+It quickly became evident that there was a huge opportunity to improve wayfinding. Since I had previously been a museum volunteer about five years back, I ended up needing to lead the group to various exhibits - without me there to shepherd them, we would not have known how to make the most of our museum experience in the short time we had. This was a rather unfortunate realization that most museum goers did not have an experienced guide to help them do the same.
 
 <div class="gallery-box">
   <div class="gallery">
     <img src="/images/projects/science-museum/persona-journey.png" B loading="lazy" alt="">
     <img src="/images/projects/science-museum/feelings.png" B loading="lazy" alt="">
   </div>
+   <em>Personas & Journey Mapping / <a href="https://www.figma.com/board/ogzJQwRQg6dyqoqSthloEq/Science-Museum-Service-Design?node-id=0-1&t=12F7h5RwaW06QJgu-1" target="_blank">See Full File in FigJam</a></em>
 </div>
 
 ## Heuristic evaluation
 
 Together we conducted an evaluation using established usability heuristics, or principles for designing user-friendly interfaces.
 
-Again adopting the mindset of Gus the Grandpa and each of the other key segments, I documented instances where these heuristics were violated. 
+Again adopting the mindset of "Gus the Grandpa" and each of the other key segments, I documented instances where these heuristics were violated. The most severe violations again pointed to a wayfinding opportunity: Visibility of system status, error prevention, and help users recover from errors.
 
 <div class="gallery-box">
   <div class="gallery">
     <img src="/images/projects/science-museum/heuristic1-5.png" B loading="lazy" alt="">
     <img src="/images/projects/science-museum/heuristic6-10.png" B loading="lazy" alt="">
   </div>
+  <em>Heuristic Evaluation / <a href="https://www.figma.com/proto/c3s8QpGsV3yzEmjSYIqMxZ/Science-Museum-Heuristic-Eval?node-id=7-1114&t=PpGnXly5xsKrQRg9-1" target="_blank">See Full Evaluation in Figma</a></em>
 </div>
 
 # Reflection

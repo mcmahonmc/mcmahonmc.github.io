@@ -71,11 +71,11 @@ This project helped drive the decision to include Fitbit activity data acquisiti
 
 Through this study, families can choose to have access to technology that will measure health factors like indoor air quality, sleep habits, mood, or physical activity. Their data is shared with them in real-time through a smartphone app so they can make informed decisions about their own health.
 
- This validation work strengthened the decision to include Fitbit data collection as part of the study. Participants will be able to see their activity data (which showed high instrumental validity, as opposed to the sleep data) and how that relates to other environmental variables through the app.
+This validation work strengthened the decision to include Fitbit data collection as part of the study. Participants will be able to see their activity data (which showed high instrumental validity, as opposed to the sleep data) and how that relates to other environmental variables through the app.
 
- ## Community advocacy
+## Community advocacy
 
- This data is also used in aggregated formats by community partners to advocate for changes at the city and county level to improve issues affecting the health of the entire community.
+This data is also used in aggregated formats by community partners to advocate for changes at the city and county level to improve issues affecting the health of the entire community.
 
 This work helped to articulate the value of including sleep and activity data to inform community advocacy efforts.
 
