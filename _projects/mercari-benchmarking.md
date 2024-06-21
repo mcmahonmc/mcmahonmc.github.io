@@ -2,7 +2,7 @@
 title: Measuring Momentum
 date: 2023-09-30
 subtitle: Benchmarking / UX • Mercari
-image: '/images/projects/benchmarking/dashboard-multiple-transparent.png'
+image: '/images/projects/benchmarking/dashboard-mercari.png'
 ---
 
 Mercari was on the cusp of developing three bold, new features. We needed a way to systematically monitor changes in ease of use, navigation, and core functionality over time.

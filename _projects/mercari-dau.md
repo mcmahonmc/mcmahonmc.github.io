@@ -2,7 +2,7 @@
 title: Secondhand Superstars
 date: 2023-03-30
 subtitle: Strategy / UX • Mercari
-image: '/images/projects/dau/image-1.jpg'
+image: '/images/projects/dau/1.png'
 ---
 
 The typical Mercari user opens Mercari once or twice a week. But Mercari Japan users access the app at least once daily. This indicated that we had a huge opportunity to drive engagement on our platform. Yet - how to do that?
@@ -74,7 +74,9 @@ I used [EnjoyHQ](https://www.usertesting.com/platform/enjoyhq) to review, tag, a
 
 # Research Impact
 
-I shared this report at a product leadership offsite. Managers jotted down questions and ideas as I presented, then grouped them into themes on a whiteboard and used this to drive discussions and decision-making over the coming days. Ultimately, 6/10 of the recommendations coming out of this project were prioritized for immediate execution in the upcoming product roadmap.
+## DAU Study On Tour
+
+I presented this study so many times that it started to feel a little bit like I was on tour! First, I shared this report at a product leadership offsite. Managers jotted down questions and ideas as I presented, then grouped them into themes on a whiteboard and used this to drive discussions and decision-making over the coming days. Ultimately, 6/10 of the recommendations coming out of this project were prioritized for immediate execution in the upcoming product roadmap.
 
 > Your delivery was polished and influential; the takeaways you impressed upon the team were the most referenced data for the remainder of the workshop.
 
@@ -86,4 +88,22 @@ I shared this report at a product leadership offsite. Managers jotted down quest
 
 I was then asked to present this study, in combination with other converging findings from a separate project, at Mercari's executive offsite. This generated much discussion about which customer segment to focus our efforts on supporting, and ultimately the decision aligned with the study's recommendation to continue supporting our everyday, amateur sellers. This report helped leadership to orient around a specific customer segment, and was cited in the company and product all hands meetings at the beginning of the next fiscal year. 
 
-Finally, I presented this research at a company-wide "Show and Tell" to help socialize these insights more broadly. The wider team really appreciated the opportunity to connect with customers, an observation which later drove me to initiate our quarterly Research Lunch & Learn which was attended by 70+ employees.
+Finally, I also presented this research to our UX & Brand Team as well as at a company-wide "Show and Tell" to help socialize these insights more broadly. The wider team really appreciated the opportunity to connect with customers, an observation which later drove me to initiate our quarterly Research Lunch & Learn which was attended by 70+ employees.
+
+## Positioning
+
+Because of this study, we were able to better align our marketing and product initiatives to emphasize our key differentiators that resonate most with people who are "hooked" on Mercari. 
+
+<div class="gallery-box">
+  <div class="gallery">
+    <img src="/images/projects/dau/app-store-comparison.png" loading="lazy" alt="">
+  </div>
+</div>
+
+Comparing App Store screenshots from March 2023, just before this study was completed, to 2024, we can see some important changes:
+1. Luxury and bulky inventory no longer are featured prominently. Instead, today Mercari features inventory related to niche interests, like BTS, and highlights how valued features like saved search help Mercari users stay up to date with the latest items. 
+2. It emphasizes finding deals through offers, beloved by our daily users. 
+3. Mercari calls out the ratings system as a way to build trust, rather than buyer protection, which was not something universally favored by our buyers. 
+
+Altogether, this research helped Mercari understand what's most important to the people who love Mercari so that we know what to emphasize and optimize to continue bringing them back.
+
