@@ -2,7 +2,7 @@
 title: High-Speed Service Design
 date: 2023-02-25
 subtitle: Tactical / UX • Science Museum of Virginia
-image: '/images/projects/science-museum/Science-Museum-of-Virginia-Parking-Deck-2.jpg'
+image: '/images/projects/science-museum/rvadsn.png'
 ---
 
 The [Science Museum of Virginia](https://smv.org) captivates hundreds of thousands of guests each year through experiential exhibits, unique artifacts, interactive technologies, innovative workshops, dynamic films, impressive live animals, hands-on makerspaces, interesting lab demos, and quirky original content. 

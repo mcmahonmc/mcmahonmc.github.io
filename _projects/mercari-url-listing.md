@@ -2,7 +2,7 @@
 title: URL Listing
 date: 2024-04-01
 subtitle: Tactical / UX • Mercari
-image: '/images/projects/url-listing/frame-1.png'
+image: '/images/projects/url-listing/1.png'
 ---
 
 Mercari wanted to enable experienced sellers to easily list many listings at once. We knew that many experienced sellers cross-post, or use multiple resale platforms simultaneously, to increase their exposure and maximize their chance of making a sale.
@@ -20,6 +20,13 @@ Before moving forward with implementation, I sought to clarify some of the assum
 # Outcomes
 * __+395k__ new listings in 1 month
 * __+1k__ new power sellers in 1 month
+
+<div class="gallery-box">
+  <div class="gallery">
+    <img src="/images/projects/url-listing/design-1.png" B loading="lazy" alt="">
+    <img src="/images/projects/url-listing/design-5.png" B loading="lazy" alt="">
+  </div>
+</div>
 
 # My Research Process
 
@@ -116,8 +123,9 @@ Overall, this research guided the development of the URL listing feature from id
 
 <div class="gallery-box">
   <div class="gallery">
-    <img src="/images/projects/url-listing/listing-completed.png" B loading="lazy" alt="Artifact">
-    <img src="/images/projects/url-listing/listing-import.png" B loading="lazy" alt="Artifact">
+    <img src="/images/projects/url-listing/design-2.png" B loading="lazy" alt="Artifact">
+    <img src="/images/projects/url-listing/design-3.png" B loading="lazy" alt="Artifact">
   </div>
+  <em>Ready to List Items / FAQ Page</em>
 </div>
 

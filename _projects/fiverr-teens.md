@@ -2,7 +2,7 @@
 title: NextGen Gig Economy
 date: 2024-05-22
 subtitle: Strategy / UX • Fiverr
-image: '/images/projects/teen-accounts/fiverr-header-transparent.png'
+image: '/images/projects/teen-accounts/3.png'
 ---
 
 There are 32M teens in the US without an online marketplace that supports them in freelancing online. Fiverr wanted to explore how to strategically position themselves through marketing and product features in order to set teens and parents up for online freelancing success, and therefore expand their user base to a younger demographic.
@@ -16,6 +16,13 @@ Led UX research support to identify how we might successfully encourage safe and
 
 # Outcome
 This research identified misalignment with short-term business goals, resulting in reduced resource allocation and risk. Should this direction be re-prioritized, this research generated 17+ actionable recommendations for product development and marketing.
+
+<div class="gallery-box">
+  <div class="gallery">
+    <img src="/images/projects/teen-accounts/concept.png" loading="lazy" alt="">
+  </div>
+  <em>New research concept mockup illustrating changes in communication strategy and value proposition.</em>
+</div>
 
 # My Research Process
 
@@ -40,7 +47,7 @@ Because the company was bullish about this feature and were pushing an aggressiv
 <div class="gallery-box">
   <div class="gallery">
     <img src="/images/projects/teen-accounts/study-plan-1.png" B loading="lazy" alt="">
-    <img src="/images/projects/teen-accounts/study-plan-2.png" B loading="lazy" alt="">
+    <img src="/images/projects/teen-accounts/study-plan-2-.png" B loading="lazy" alt="">
   </div>
    <em>Study Plan Excerpts</em>
 </div>
@@ -52,7 +59,11 @@ We debated how to factor prior freelancing experience into our sample selection 
 
 ## Parent Interviews
 
-Through UserZoom (now [UserTesting](https://www.usertesting.com/platform/userzoom)), I interviewed 8 parents of teens 13-17 about how they navigate online social and business transactions with their teen. Only one parent had zero prior freelancing experience. We also performed a sorting activity to clarify default teen account permissions. 
+Through UserZoom (now [UserTesting](https://www.usertesting.com/platform/userzoom)), I interviewed 8 parents of teens 13-17. During the interview, parents: 
+
+* Discussed how they navigate online social and business transactions with their teen.
+* Responded to a mock email notifying them of their teen's account creation.
+* Performed a sorting activity to evaluate and prioritize different types of parent permissions.
 
 I used [Reduct](https://reduct.video/product/edit-video) to review, tag, and code interview transcripts before affinity mapping by theme. I pulled key themes into highlight reels to help stakeholders connect more directly with user voices, then included these reels in the final share-out deck.
 
