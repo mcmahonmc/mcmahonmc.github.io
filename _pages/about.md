@@ -9,7 +9,7 @@ permalink: /about/
 
 I have a PhD in Experimental Psychology from UT Austin and a Business Certificate from UVA's McIntire School of Commerce. I started my career in clinical research, and while I loved delving into complex quantitative neuropsychological methods, I realized I most enjoyed deeply listening to people's stories and working together to create behavioral change. When I got my first taste of product design through a collaboration with engineering students working on a mobile health app, I loved seeing my work take shape and drive immediate impact. That's when I knew I wanted to pursue a career in UX research, where I could leverage insights about human behavior to create better experiences. <br><br> 
 
-Outside of work, I'm a national parks enthusiast, pickleball champion, an avid knitter, and a mom to a yellow lab. You can also occassionally find me at [RVA Design Group](https://www.linkedin.com/company/rvadsgn/) or [Ladies that UX Richmond](https://www.linkedin.com/company/ladies-that-ux-richmond/).
+Outside of work, I'm a national parks enthusiast, pickleball champion, an avid knitter, and a mom to a yellow lab. You can also occasionally find me at [RVA Design Group](https://www.linkedin.com/company/rvadsgn/) or [Ladies that UX Richmond](https://www.linkedin.com/company/ladies-that-ux-richmond/).
 
 <div class="gallery-box">
   <div class="gallery">
