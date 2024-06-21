@@ -85,15 +85,17 @@ I researched the examples of shared account spaces that parents mentioned during
 In the report, I summarized the key findings from parent interviews, the permissions sorting activity, and my desk research. When I presented these findings to our UX and Brand team, I shared video highlight reels, letting parents speak for themselves. Then I opened up the floor to the audience with the question, "What themes do you notice?" This drew out many of the key themes I discussed later on in the presentation, but also highlighted a few details I hadn't considered.
 
 # Key Takeaways
-Ultimately, we learned that parents would need assurances about content moderation, user verification, supervision capabilities, and transactional permissions in order to feel comfortable allowing their teens to create an independent account. Most parents did not perceive account creation on their teen's behalf as a blocker, so based on the feature value alone, we did not expect to see a significant lift in teen adoption.
 
-However, some parents saw Fiverr as a potential opportunity for teens to learn valuable business skills with parental guidance. All parents emphasized the importance of teen education about financial transactions and online safety before starting to freelance independently online. If we invested significant resources to address this desire for parents, by providing teen financial and business education, showing examples of successful teens, and finding ways to signal teen credibility to parents and other users, feature adoption was likely to be much more successful.
+* __Parental Assurances are Crucial:__ Parents need to feel confident about Fiverr's ability to moderate content, verify users, offer supervision tools, and manage financial transactions before allowing their teens to create independent accounts.
+* __Account Creation on Parent's Account Might Not Be a Barrier:__ While parental approval is essential, creating a sub-account under a parent's existing Fiverr account might not be a significant hurdle to teen adoption.
+* __Fiverr as a Learning Platform:__ Some parents see Fiverr as a potential platform for teens to gain valuable business skills under parental guidance.
+* __Financial and Safety Education is Paramount:__ All parents stressed the importance of educating teens about online safety and financial responsibility before they begin freelancing independently.
+* __Investment Needed for Successful Adoption:__ To make teen accounts successful, Fiverr would need to invest significantly in resources for financial and business education for teens, showcasing successful teen freelancers, and building trust with parents and other users regarding teen credibility.
 
 # Research Impact
-I shared my report with product leadership and design team to
-inform scoping estimations and inform feature specifications. Because of this research, we uncovered that the likely outcome was in conflict with other business priorities, so the feature was not pursued.
+I shared my report with product leadership and design team to inform scoping estimations and inform feature specifications. Because of this research, **we uncovered that the likely outcome was in conflict with other business priorities, so the feature was not pursued.**
 
-If this direction is re-prioritized, this research generated 17 recommendations to help the design and marketing teams pick up quickly with an understanding of how to configure default teen permissions, make a positive first impressions on parents, differentiate through positioning as a teen learning experience, and build attractive parental controls features.
+If this direction is re-prioritized, this research generated **17+ recommendations** to help the design and marketing teams pick up quickly with an understanding of how to configure default teen permissions, make a positive first impression on parents, differentiate through positioning as a teen learning experience, and build attractive parental controls features.
 
 <div class="gallery-box">
   <div class="gallery">
