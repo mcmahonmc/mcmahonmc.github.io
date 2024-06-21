@@ -15,26 +15,27 @@ Led UX research support to identify how we might successfully encourage safe and
 *In-depth interviews • Competitor analysis • Desk research • UserZoom • FigJam • Reduct*
 
 # Outcome
-This research identified misalignment with short-term business goals, resulting in reduced resource allocation and risk. Should this directionbe re-prioritized, this research generated 17+ actionable recommendations for product development and marketing.
+This research identified misalignment with short-term business goals, resulting in reduced resource allocation and risk. Should this direction be re-prioritized, this research generated 17+ actionable recommendations for product development and marketing.
 
 # My Research Process
 
-## Stakeholder Interviews
+## Research Kickoff
 
-Between the product manager's initial proposal and the research intake date, the urgency of this project shifted drastically from exploratory to tactical, with an aggressive development timeline. Through open communication and flexibility, I met with the product manager and UX leadership to brainstorm and prioritize research needs in alignment with business goals. 
+We met as a team to discuss existing knowledge, identify challenges, and brainstorm research questions.
 
-I focused initial conversations around three main questions: 
+Challenges:
+* Uncertain whether there is teen demand for a freelancing platform, but leadership was committed to launching in 6 mo.
+* Legal had historically prohibited teen data collection, although we had some limited information from a prior age collection experiment.
+* Research moderation tooling was nearing contractual deadline, with limited sampling capabilities.
+
+## Study Plan
+
+To develop the study plan, I focused initial stakeholder conversations around three main questions: 
 * What decisions are we trying to make with research insights?
 * What questions are most crucial to address?
 * What questions are within our current and future capabilities to answer? What would we need in order to address these questions?
 
-## Research Constraints
-
-Through stakeholder interviews, we identified a few key constraints. First, we didn't have a legally-approved way to gather data from teens. We had some limited information from a prior behavioral experiment, but were unable to intentionally collect data from minors within the research timeline necessessitated by the development speed. We also were in a contractual pinch with our moderation tooling which meant we needed to be very strategic with our sample.
-
-## Study Plan
-
-Because the company was bullish about this feature and were pushing an aggressive development timeline, I developed a study plan meant to understand how parents navigated existing shared online account spaces, and what assurances they needed to feel comfortable with their teen freelancing online.
+Because the company was bullish about this feature and were pushing an aggressive development timeline, we decided to pursue research on how parents navigated existing shared online account spaces, and what assurances they needed to feel comfortable with their teen freelancing online.
 
 <div class="gallery-box">
   <div class="gallery">
