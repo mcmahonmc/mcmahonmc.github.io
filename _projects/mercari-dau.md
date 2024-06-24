@@ -5,7 +5,7 @@ subtitle: Strategy / UX • Mercari
 image: '/images/projects/dau/1.png'
 ---
 
-The typical Mercari user opens Mercari once or twice a week. But Mercari Japan users access the app at least once daily. This indicated that we had a huge opportunity to drive engagement on our platform. Yet - how to do that?
+The typical Mercari user opens Mercari once or twice a week. But Mercari Japan users access the app at least once daily. This indicated that we had a huge opportunity to drive engagement on our platform. But how?
 
 ## My Role
 I led research from project intake, study conceptualization, facilitation, analysis, and reporting. 
@@ -76,7 +76,7 @@ I used [EnjoyHQ](https://www.usertesting.com/platform/enjoyhq) to review, tag, a
 
 ## DAU Study On Tour
 
-I presented this study so many times that it started to feel a little bit like I was on tour! First, I shared this report at a product leadership offsite. Managers jotted down questions and ideas as I presented, then grouped them into themes on a whiteboard and used this to drive discussions and decision-making over the coming days. Ultimately, 6/10 of the recommendations coming out of this project were prioritized for immediate execution in the upcoming product roadmap.
+I presented this study so many times that it started to feel a little bit like I was on tour! First, I shared this report at a product leadership offsite. Managers jotted down questions and ideas as I presented, then grouped them into themes on a whiteboard and used this to drive discussions and decision-making over the coming days. There, 6/10 of the recommendations coming out of this project were prioritized for immediate execution in the upcoming product roadmap.
 
 > Your delivery was polished and influential; the takeaways you impressed upon the team were the most referenced data for the remainder of the workshop.
 
@@ -92,7 +92,7 @@ Finally, I also presented this research to our UX & Brand Team as well as at a c
 
 ## Positioning
 
-Because of this study, we were able to better align our marketing and product initiatives to emphasize our key differentiators that resonate most with people who are "hooked" on Mercari. 
+Because of this study, we were able to better align our marketing and product initiatives to emphasize our key differentiators that resonate most with Mercari's "secondhand superstars."
 
 <div class="gallery-box">
   <div class="gallery">
