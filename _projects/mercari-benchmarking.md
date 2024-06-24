@@ -80,6 +80,10 @@ I also got approval to offer a sweepstakes style incentive for the first time at
 In addition to tracking quarterly metrics like user satisfaction, ease of use, ease of navigation, and product-market fit, we also collected open-text feedback that was synthesized at first pass using Sprig's AI. Aided with manual
 inspection, three main opportunity areas emerged, including search (especially low-hit search queries and clothing queries), item discovery, and listing efficiency.
 
+## Reporting
+
+I organized a recurring quarterly research share-out venue, which drew 70+ employees from across the entire organization. At the time, this was the majority of our US staff!
+
 <div class="gallery-box">
   <div class="gallery">
     <img src="/images/projects/benchmarking/slide-1.png" B loading="lazy" alt="Artifact">
@@ -88,10 +92,6 @@ inspection, three main opportunity areas emerged, including search (especially l
   </div>
   <em>Initial Benchmarking Report Excerpts</em>
 </div>
-
-## Reporting
-
-I organized a recurring quarterly research share-out venue, which drew 70+ employees from across the entire organization. At the time, this was the majority of our US staff!
 
 # Research Impact
 
@@ -117,3 +117,23 @@ Quantitative data historically has been more accessible to Mercari employees. Bu
 ## Visibility into trends over time
 
 Because this was conducted on a quarterly basis, we were able to glean the relative prevalence of different pain points in relation to each quarter's rapid product changes.
+
+# Future applications
+
+Because of the size of this dataset, we can derive clusters based on a combination of users' attitudinal and behavioral data to inform user segmentation. As a personal project, I applied variable selection and  maximum likelihood estimation [cluster analysis](https://github.com/mcmahonmc/benchmarking/tree/main) in R using data collected in the first three benchmarking assessments to identify patterns in user characteristics. 
+
+This approach segmented users according to three types: sellers, buyers, and "overlappers," or people who both buy and sell. Overlappers were actually a challenging segment to define through behavioral analytics alone - What time window do we use to identify overlapper behavior? What user actions signal sufficiently differentiate intent by buyer vs. seller?
+
+Using unsupervised methods, I successfully identified overlappers through a combination of behavioral and attitudinal characteristics. While overlappers are more likely to be more engaged on Mercari and contribute higher lifetime value, they also tended to rate Mercari less favorably on ease of use and ease of navigation. This suggests there is opportunity to improve the experience for users with dual roles on our platform, with significant upside for business growth. Future analysis could drill into open-text themes around product suggestions and pain points for this cluster of users. This model may also be applied to predict user type, so as to make more relevant recommendations or tailor marketing communications more clearly to user needs.
+
+<div class="gallery-box">
+  <div class="gallery">
+    <img src="/images/projects/benchmarking/Screenshot 2024-06-24 at 6.00.54 PM.png" B loading="lazy" alt="">
+    <img src="/images/projects/benchmarking/Screenshot 2024-06-24 at 5.47.13 PM.png" B loading="lazy" alt="">
+    <img src="/images/projects/benchmarking/Screenshot 2024-06-24 at 5.47.28 PM.png" B loading="lazy" alt="">
+    <img src="/images/projects/benchmarking/Screenshot 2024-06-24 at 5.48.04 PM.png" B loading="lazy" alt="">
+    <img src="/images/projects/benchmarking/Screenshot 2024-06-24 at 6.03.56 PM.png" B loading="lazy" alt="">
+    <img src="/images/projects/benchmarking/Screenshot 2024-06-24 at 6.04.06 PM.png" B loading="lazy" alt="">
+  </div>
+  <em>Benchmarking Survey Cluster Analysis in R</em>
+</div>
