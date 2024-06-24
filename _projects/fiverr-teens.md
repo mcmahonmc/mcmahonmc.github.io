@@ -15,7 +15,7 @@ Led UX research support to identify how we might successfully encourage safe and
 *In-depth interviews • Competitor analysis • Desk research • UserZoom • FigJam • Reduct*
 
 # Outcome
-This research identified misalignment with short-term business goals, resulting in reduced resource allocation and risk. Should this direction be re-prioritized, this research generated 17+ actionable recommendations for product development and marketing.
+This research identified misalignment with short-term business goals, resulting in re-evaluation of the project viability, reducing resource allocation and risk. Should this direction be re-prioritized, this research generated 17+ actionable recommendations for product development and marketing.
 
 <div class="gallery-box">
   <div class="gallery">
