@@ -9,7 +9,7 @@ There are 32M teens in the US without an online marketplace that supports them i
 
 Because minors cannot enter legally binding agreements, parental approval was key to our success. Through testing, we uncovered parents' priorities to enable teens to freelance safely and successfully through our platform.
 
-## My Role
+# My Role
 Led UX research support to identify how we might successfully encourage safe and successful teen freelancers, with enthusiastic permission and support from their parents.
 
 *In-depth interviews • Competitor analysis • Desk research • UserZoom • FigJam • Reduct*

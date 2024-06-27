@@ -9,7 +9,7 @@ The [Science Museum of Virginia](https://smv.org) captivates hundreds of thousan
 
 I participated in a 2-hour workshop hosted by the [Richmond Design Group](https://www.linkedin.com/company/rvadsgn/), during which we conducted a heuristic analysis of the in-person Science Museum experience.
 
-## My Role
+# My Role
 We broke out into three groups to strategize and explore the museum. Each team member adopted the mindset of one of the science museum's key customers, for example: a teacher, grandparent or parent, and a child. As we made our way through the museum, we took note of these museum goers' experiences using the 5 E's of the customer journey framework. 
 
 Independently, I produced artifacts summarizing the thinking that went into the live workshop that day. Altogether, this project took about 4 hours - pretty quick!

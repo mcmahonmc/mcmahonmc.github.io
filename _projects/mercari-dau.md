@@ -7,7 +7,7 @@ image: '/images/projects/dau/1.png'
 
 The typical Mercari user opens Mercari once or twice a week. But Mercari Japan users access the app at least once daily. This indicated that we had a huge opportunity to drive engagement on our platform. But how?
 
-## My Role
+# My Role
 I led research from project intake, study conceptualization, facilitation, analysis, and reporting. 
 
 *Surveys • Diary study • Interviews • Sprig • EnjoyHQ*
