@@ -10,10 +10,8 @@ color_scheme: auto # You can choose three modes auto, light, and dark. By defaul
 # Navigation Settings
 menu__settings:
   menu__items:
-    - title: 'Home'
+    - title: 'Work'
       url: '/'
-    - title: 'Portfolio'
-      url: '/projects/'
     - title: 'About'
       url: '/about/'
     - title: 'Contact'
@@ -25,7 +23,7 @@ menu__settings:
 author:
   author__name: Megan McMahon
   author__bio: UX Researcher
-  author__avatar: '/images/me/02.png'
+  author__avatar: '/images/me/scribble-pink.png'
 
 social:
 - {icon: "ion-logo-linkedin", link: "https://linkedin.com/in/mcmahonmc"}
@@ -40,9 +38,9 @@ social:
 #-------------------------------
 # Hero Settings
 hero:
-  hero__title: Megan McMahon
-  hero__description: UX Researcher • PhD • Richmond, VA
-  hero__image: 
+  hero__title: Hi, I'm Megan
+  hero__description: I'm a UX Researcher with a PhD in Experimental Psychology. I apply mixed methods research to connect decision makers and end users through data-driven storytelling.
+  hero__image: /images/me/scribble.png
 
 
 #-------------------------------
@@ -55,9 +53,9 @@ mailchimp__button__text: Get updates
 
 #-------------------------------
 # Projects Settings
-projects__settings:
-  projects__title: Recent work
-  projects__description:  Selected research spanning e-commerce and digital health
+projects__settings: 
+  projects__title: 
+  projects__description:  
 
 
 #-------------------------------
@@ -122,10 +120,8 @@ blog__settings:
 # Footer Navigation Settings
 footer_menu__settings:
   menu__items:
-    - title: 'Home'
+    - title: 'Work'
       url: '/'
-    - title: 'Portfolio'
-      url: '/projects/'
     - title: 'About'
       url: '/about/'
     - title: 'Contact'
