@@ -23,7 +23,7 @@ menu__settings:
 author:
   author__name: Megan McMahon
   author__bio: UX Researcher
-  author__avatar: '/images/me/scribble-pink.png'
+  author__avatar: '/images/me/scribble-blue.png'
 
 social:
 - {icon: "ion-logo-linkedin", link: "https://linkedin.com/in/mcmahonmc"}
