@@ -2,7 +2,7 @@
 title: Sleep Tight, Think Right
 date: 2020-05-01
 subtitle: Quantitative / Academic • UT Austin
-image: '/images/projects/white-matter/psybrain.png'
+image: '/images/projects/white-matter/header.png'
 ---
 
 In healthy aging, older adults often report changes in their rest-activity rhythms, for example, increased morningness preference, earlier wake times, increased sleep latency, and decreased total sleep time. These patterns can be assessed objectively using wrist-based accelerometers, or actigraphs. 

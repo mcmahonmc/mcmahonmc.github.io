@@ -2,7 +2,7 @@
 title: Secondhand Superstars
 date: 2023-03-30
 subtitle: Strategy / UX • Mercari
-image: '/images/projects/dau/1.png'
+image: '/images/projects/dau/header.png'
 ---
 
 The typical Mercari user opens Mercari once or twice a week. But Mercari Japan users access the app at least once daily. This indicated that we had a huge opportunity to drive engagement on our platform. But how?

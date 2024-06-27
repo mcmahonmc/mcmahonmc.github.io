@@ -2,7 +2,7 @@
 title: NextGen Gig Economy
 date: 2024-05-22
 subtitle: Strategy / UX • Fiverr
-image: '/images/projects/teen-accounts/3.png'
+image: '/images/projects/teen-accounts/header.png'
 ---
 
 There are 32M teens in the US without an online marketplace that supports them in freelancing online. Fiverr wanted to explore how to strategically position themselves through marketing and product features in order to set teens and parents up for online freelancing success, and therefore expand their user base to a younger demographic.

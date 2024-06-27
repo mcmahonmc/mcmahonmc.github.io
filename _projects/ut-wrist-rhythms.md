@@ -2,7 +2,7 @@
 title: Wrist Rhythms
 date: 2022-05-15
 subtitle: Quantitative / Academic • UT Austin
-image: '/images/projects/wrist-rhythms/wcwh-2.png'
+image: '/images/projects/wrist-rhythms/header.png'
 ---
 
 This research examined the instrumental validity of Fitbits for capturing human sleep and activity rhythms in order to promote well-being and trust in a self-service mobile app for community members participating in UT research. While commercial wearable activity bands are increasingly boasting sleep assessment capabilities, studies comparing these bands to previously validated devices are sparse. In one of three of my dissertation studies, I analyzed sleep and 24-hr activity rhythm measures obtained from Fitbit and Actiwatch 2.0 activity bands simultaneously worn by young and older adults. I examined the inter-device agreement for each of the selected measures to understand how well Fitbits capture these properties relative to the laboratory-grade device.
