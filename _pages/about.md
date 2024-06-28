@@ -2,7 +2,7 @@
 layout: page
 title: About
 permalink: /about/
-# image: '/images/me/02.png'
+#image: '/images/me/junie.jpeg'
 ---
 
 # My Story
