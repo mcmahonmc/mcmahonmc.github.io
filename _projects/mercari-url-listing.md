@@ -7,9 +7,7 @@ image: '/images/projects/url-listing/header.png'
 
 Mercari wanted to enable experienced sellers to easily list many listings at once. We knew that many experienced sellers cross-post, or use multiple resale platforms simultaneously, to increase their exposure and maximize their chance of making a sale.
 
-An engineer proposed an idea at Go Bold Day, Mercari's bi-annual hackathon, to simplify cross-posting for power sellers by creating an import tool that picks up metadata from other sites and easily populates the Mercari listing form. This idea won the company-wide hackathon and was pursued for development. 
-
-[Check out the live feature here.](https://www.mercari.com/us/import-listing/)
+An engineer proposed an idea at Go Bold Day, Mercari's bi-annual hackathon, to simplify cross-posting for power sellers by creating an import tool that picks up metadata from other sites and easily populates the Mercari listing form. This idea won the company-wide hackathon and was pursued for development.
 
 # My Role
 Before moving forward with implementation, I sought to clarify some of the assumptions behind the new feature. Through conversations with product managers, engineers, and UX designers, we identified questions that would help us make sense of the problem space, size the opportunity, validate assumptions, and inform design requirements.
@@ -21,11 +19,11 @@ Before moving forward with implementation, I sought to clarify some of the assum
 * __+395k__ new listings in 1 month
 * __+1k__ new power sellers in 1 month
 
+<iframe title="instagram-video" src="/images/projects/url-listing/Snapinsta.app_video_An-oP40leGPtWjha6Ew7-ngWTc-2_jkby74Mtqjg1bjYhh2Rd5McEOJdWLp5Ui7kqmkfQU5c8AG0_4r-75_NB7Ct.mp4" frameborder="0" allowfullscreen></iframe>
 <div class="gallery-box">
   <div class="gallery">
-    <img src="/images/projects/url-listing/design-1.png" B loading="lazy" alt="">
-    <img src="/images/projects/url-listing/design-5.png" B loading="lazy" alt="">
   </div>
+  <em>Import Listing Announcement / <a href="https://www.mercari.com/us/import-listing/" target="_blank">See Import Listing Live</a></em>
 </div>
 
 # My Research Process
@@ -49,9 +47,8 @@ First, I surveyed power sellers who currently did not use a third-party listing 
 
 * How do power sellers who don’t use a third-party tool carry out their listing process? 
 * What are their pain points with cross posting and managing listings across platforms?
-* At a high level, how do existing Mercari power sellers perceive
-the usefulness of one-URL listing?
-* Based on what we learn about the listing process, at what stage in the listing process might it make the most sense to introduce one-URL listing?
+* At a high level, how do existing Mercari power sellers perceive the usefulness of Import Listing?
+* Based on what we learn about the listing process, at what stage in the listing process might it make the most sense to introduce Import Listing?
 
 ## Key Takeaways
 From this study, we gained an understanding of the unique steps and pain points power sellers experience when listing across multiple platforms. They appeared unencumbered by their proceses, were able to list efficiently using mental heuristics and personal templates, and paid special attention to detail when checking their listing.
@@ -69,15 +66,28 @@ The most requested feature among power sellers was not an import tool, but the a
 # Study 2
 ## Moderated Usability Testing with eBay Power Sellers
 
-Through UserZoom (now [UserTesting](https://www.usertesting.com/platform/userzoom)), I interviewed 8 eBay sellers who had sold over 30 items in the past month.
+Through UserZoom (now [UserTesting](https://www.usertesting.com/platform/userzoom)), I ran remote, moderated usability testing using static images of the import listing feature with 8 eBay sellers who list at least 30 items each month. Participants were asked to “Think aloud” so the experimenter could collect notes on any issues the participants may have encountered.
 
+Then, I utilized an AI tool, EyeQuant’s Visual Attention Analysis and Design Metrics, to supplement feedback from user testing and identify opportunities to improve attention, clarity, and excitingness. Since we intended to market this feature to new users, these were important characteristics of the import listing experience to benchmark.
+
+Together, these subjective and objective measures informed opportunities for design improvement.
+
+<div class="gallery-box">
+  <div class="gallery">
+    <img src="/images/projects/url-listing/attention.png" B loading="lazy" alt="">
+    <img src="/images/projects/url-listing/excitingness.png" B loading="lazy" alt="">
+  </div>
+  <em>EyeQuant heatmaps showing areas for visual attention and excitingness</em>
+</div>
+
+## Co-Synthesis
 After analyzing interview transcripts, I created a FigJam board to show user clips, behavioral observations, and key insights for each step of the import listing process. I hosted a workshop for the project team, where in rounds, designers and product managers individually spent time reviewing a section of the board, jotted down questions, and then met again for discussion. This helped the team immerse themselves in the participants' feedback and generate their own actionable next steps.
 
 <div class="gallery-box">
   <div class="gallery">
     <img src="/images/projects/url-listing/share-out-ebay.png" B loading="lazy" alt="Reduct">
   </div>
-  <em>Insights Workshop FigJam Board Excerpt</em>
+  <em>Co-Synthesis Workshop FigJam Board Excerpt</em>
 </div>
 
 ## Key Takeaways
@@ -107,8 +117,9 @@ Second, some listers weren't aware of bulk editing capabilities - many were leav
 <div class="gallery-box">
   <div class="gallery">
     <img src="/images/projects/url-listing/daily-draft-items.png" B loading="lazy" alt="Artifact">
+    <img src="/images/projects/url-listing/design-2.png" B loading="lazy" alt="">
   </div>
-  <em>Daily Draft Listings</em>
+  <em>Daily Draft Listings / Ready to List Zero State</em>
 </div>
 
 # Research Impact
@@ -121,11 +132,4 @@ Overall, this research guided the development of the URL listing feature from id
 
 * Increasing transparency through visual import progress and more specific error messages
 
-<div class="gallery-box">
-  <div class="gallery">
-    <img src="/images/projects/url-listing/design-2.png" B loading="lazy" alt="Artifact">
-    <img src="/images/projects/url-listing/design-3.png" B loading="lazy" alt="Artifact">
-  </div>
-  <em>Ready to List Items / FAQ Page</em>
-</div>
 
