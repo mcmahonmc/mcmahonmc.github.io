@@ -5,16 +5,30 @@ permalink: /resources/
 #image: '/images/me/junie.jpeg'
 ---
 
-### Figma Community Templates
+### Design Thinking
 
-I created a few templates for design thinking tools I like. You can access them on the Figma Community [here](https://www.figma.com/community/file/1389264490750069373).
+A few of my favorite design thinking tools to move projects from understanding, to defining, to ideation, adapted from The Design Thinking Toolbox (2020).
 
-<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fdesign%2F2j2onNXef0nAGcNC9uEGyv%2FDesign-Thinking-Toolbox-Templates%3Fnode-id%3D0-1%26t%3DxKQP3eG0dyIXpdq0-1" allowfullscreen></iframe>
+<div class="gallery-box">
+  <div class="gallery">
+    <img src="/images/resources/Understand_ Emotional Response Cards.png" loading="lazy">
+    <img src="/images/resources/Define_ Critical Items Diagram-2.png" loading="lazy">
+    <img src="/images/resources/Ideate_ 2x2 Matrix.png" loading="lazy">
+  </div>
+  <em>Workshop Templates / <a href="https://www.figma.com/community/file/1389264490750069373" target="_blank">Figma Template</a></em>
+</div>
 
-<br>
+### Experimental Validity
 
-<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fdesign%2F2j2onNXef0nAGcNC9uEGyv%2FDesign-Thinking-Toolbox-Templates%3Fnode-id%3D8-4%26t%3DxKQP3eG0dyIXpdq0-1" allowfullscreen></iframe>
+Thinking through threats to validity during experimental preparation can avoid pitfalls in the study design. Here are a few worksheets I created to brainstorm counter-measures, drawing on Creswell & Creswell (2018).
 
-<br>
+<div class="gallery-box">
+  <div class="gallery">
+    <img src="/images/resources/Validity Worksheet - 1.png" loading="lazy">
+    <img src="/images/resources/Validity Worksheet - 2.png" loading="lazy">
+  </div>
+  <em>Validity Worksheets / <a href="https://www.figma.com/community/file/1389264490750069373" target="_blank">Figma Template</a></em>
 
-<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fdesign%2F2j2onNXef0nAGcNC9uEGyv%2FDesign-Thinking-Toolbox-Templates%3Fnode-id%3D8-3%26t%3DxKQP3eG0dyIXpdq0-1" allowfullscreen></iframe>
+<div class="section__navigation">
+    <a href="https://www.figma.com/community/file/1389264490750069373" target="_blank" class="button button--primary section-button">View Templates</a>
+</div>
