@@ -14,7 +14,7 @@ I started my career in clinical research, and while I loved delving into complex
 Outside of work, I'm a national parks enthusiast, pickleball champion, non-stop knitter, and mom to a yellow lab. You can also find me at [RVA Design Group](https://www.linkedin.com/company/rvadsgn/) or [Ladies that UX Richmond](https://www.linkedin.com/company/ladies-that-ux-richmond/).
 
 <div class="section__navigation">
-    <a href="https://docs.google.com/document/d/1lln3IgzzGIq10vwKqhXfmYWqKadWGwz0/edit?usp=sharing&ouid=110708125502348385468&rtpof=true&sd=true" target="_blank" class="button button--primary section-button">See Resume</a>
+    <a href="https://drive.google.com/file/d/1_VHBfzn2bd-z1O2PgXqmGyHOHXncO25E/view?usp=sharing" target="_blank" class="button button--primary section-button">See Resume</a>
 </div>
 
 <div class="gallery-box">
