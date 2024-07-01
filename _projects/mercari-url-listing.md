@@ -68,7 +68,7 @@ The most requested feature among power sellers was not an import tool, but the a
 
 Through UserZoom (now [UserTesting](https://www.usertesting.com/platform/userzoom)), I ran remote, moderated usability testing using static images of the import listing feature with 8 eBay sellers who list at least 30 items each month. Participants were asked to “Think aloud” so the experimenter could collect notes on any issues the participants may have encountered.
 
-Then, I utilized an AI tool, EyeQuant’s Visual Attention Analysis and Design Metrics, to supplement feedback from user testing and identify opportunities to improve attention, clarity, and excitingness. Since we intended to market this feature to new users, these were important characteristics of the import listing experience to benchmark.
+While I never consider AI to be a valid standalone substitute for user feedback, I utilized an AI tool, EyeQuant’s Visual Attention Analysis and Design Metrics, to supplement feedback from user testing and aid discussion about opportunities to improve attention, clarity, and excitingness. Since we intended to market this feature to new users, these were important characteristics of the import listing experience to benchmark.
 
 Together, these subjective and objective measures informed opportunities for design improvement.
 
