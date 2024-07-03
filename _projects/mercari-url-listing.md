@@ -2,7 +2,7 @@
 title: URL Listing
 date: 2024-04-01
 subtitle: Tactical / UX • Mercari
-image: '/images/projects/url-listing/header.png'
+image: '/images/projects/url-listing/IMG_7018.png'
 ---
 
 Mercari wanted to enable experienced sellers to easily list many listings at once. We knew that many experienced sellers cross-post, or use multiple resale platforms simultaneously, to increase their exposure and maximize their chance of making a sale.
@@ -18,13 +18,6 @@ Before moving forward with implementation, I sought to clarify some of the assum
 # Outcomes
 * __+395k__ new listings in 1 month
 * __+1k__ new power sellers in 1 month
-
-<iframe title="instagram-video" src="/images/projects/url-listing/Snapinsta.app_video_An-oP40leGPtWjha6Ew7-ngWTc-2_jkby74Mtqjg1bjYhh2Rd5McEOJdWLp5Ui7kqmkfQU5c8AG0_4r-75_NB7Ct.mp4" frameborder="0" allowfullscreen></iframe>
-<div class="gallery-box">
-  <div class="gallery">
-  </div>
-  <em>Import Listing Announcement / <a href="https://www.mercari.com/us/import-listing/" target="_blank">See Import Listing Live</a></em>
-</div>
 
 # My Research Process
 
@@ -57,7 +50,7 @@ The most requested feature among power sellers was not an import tool, but the a
 
 <div class="gallery-box">
   <div class="gallery">
-    <img src="/images/projects/url-listing/power-sellers.png" B loading="lazy" alt="Artifact">
+    <img src="/images/projects/url-listing/IMG_7033.png" B loading="lazy" alt="Artifact">
     <img src="/images/projects/url-listing/power-sellers-request.png" B loading="lazy" alt="Artifact">
   </div>
   <em>Slide Excerpt from Final Report Deck</em>
@@ -97,9 +90,21 @@ Through this research, we found that users were actually suspicious that the sig
 
 <div class="gallery-box">
   <div class="gallery">
-    <img src="/images/projects/url-listing/new-users.png" B loading="lazy" alt="New user flow">
+    <img src="/images/projects/url-listing/report/013.png" B loading="lazy" alt="">
   </div>
-  <em>New user flow</em>
+</div>
+
+<div class="gallery-box">
+  <div class="gallery">
+    <img src="/images/projects/url-listing/report/018.png" B loading="lazy" alt="">
+  </div>
+</div>
+
+<div class="gallery-box">
+  <div class="gallery">
+    <img src="/images/projects/url-listing/report/019.png" B loading="lazy" alt="">
+  </div>
+  <em>Design Recommendations / <a href="/images/projects/url-listing/report/report.pdf" target="_blank">See Full PDF Report</a></em>
 </div>
 
 # Study 3
@@ -132,4 +137,16 @@ Overall, this research guided the development of the URL listing feature from id
 
 * Increasing transparency through visual import progress and more specific error messages
 
+<div class="gallery-box">
+  <div class="gallery">
+    <img src="/images/projects/url-listing/report/021.png" B loading="lazy" alt="">
+  </div>
+  <em>Import Listing Landing Page</em>
+</div>
 
+<div class="gallery-box">
+  <div class="gallery">
+    <img src="/images/projects/url-listing/report/022.png" B loading="lazy" alt="">
+  </div>
+  <em>Import Listing In Progress</em>
+</div>

@@ -86,9 +86,8 @@ I organized a recurring quarterly research share-out venue, which drew 70+ emplo
 
 <div class="gallery-box">
   <div class="gallery">
-    <img src="/images/projects/benchmarking/slide-1.png" B loading="lazy" alt="Artifact">
-    <img src="/images/projects/benchmarking/slide-2.png" B loading="lazy" alt="Artifact">
-    <img src="/images/projects/benchmarking/slide-3.jpg" loading="lazy" alt="Artifact">
+    <img src="/images/projects/benchmarking/slide-1.png" B loading="lazy" alt="">
+    <img src="/images/projects/benchmarking/slide-2.png" B loading="lazy" alt="">
   </div>
   <em>Initial Benchmarking Report Excerpts</em>
 </div>

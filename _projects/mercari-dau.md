@@ -27,9 +27,8 @@ After the 1:1 interviews, I hosted a research kickoff meeting, with members from
 <div class="gallery-box">
   <div class="gallery">
     <img src="/images/projects/dau/dau-study-plan.png" B loading="lazy" alt="Study Plan TOC">
-    <img src="/images/projects/dau/dau-sprig.png" B loading="lazy" alt="EHQ">
   </div>
-   <em>Study Plan / Live-Intecept Survey</em>
+   <em>Study Plan</em>
 </div>
 
 ## Survey
@@ -38,11 +37,29 @@ We surveyed users who had shown frequent engagement with Mercari (access 60+ day
 
 The survey captured data about user motivations, what they find unique and enjoyable about Mercari, engagement with other apps, and demographics.
 
+<div class="gallery-box">
+  <div class="gallery">
+    <img src="/images/projects/dau/dau-sprig.png" B loading="lazy" alt="EHQ">
+  </div>
+   <em>Live-Intecept Survey</em>
+</div>
+
 ## Diary Study
 
 I chose a few survey respondents from each of the segments to participate in an in-depth, seven-day diary study. Participants were asked to document any interactions they had pertaining to resale as they went about their week. We weren't able to onboard a specific diary study tool in time, so I set up a scrappy version utilizing a combination of fixed daily surveys and flexible, at-will uploads to individual participant Google Drive folders.
 
 At the conclusion of the diary study, I followed up with each of them in a 60 min 1:1 interview. Stakeholders were extended open invitations to observe any interviews they wished, with time for debriefing to follow each session.
+
+<div class="gallery-box">
+  <div class="gallery">
+    <img src="/images/projects/dau/sellers/Screenshot 2024-07-02 at 5.37.24 PM.png" loading="lazy" alt="">
+    <img src="/images/projects/dau/sellers/Screenshot 2024-07-02 at 5.40.02 PM.png" loading="lazy" alt="">
+    <img src="/images/projects/dau/sellers/Screenshot 2024-07-02 at 5.38.26 PM.png" loading="lazy" alt="">
+    <img src="/images/projects/dau/sellers/Screenshot 2024-07-02 at 5.37.41 PM.png" loading="lazy" alt="">
+    <img src="/images/projects/dau/sellers/Screenshot 2024-07-02 at 5.39.15 PM.png" loading="lazy" alt="">
+    <img src="/images/projects/dau/sellers/Screenshot 2024-07-02 at 5.40.43 PM.png" loading="lazy" alt="">
+  </div>
+</div>
 
 ## Analysis
 
@@ -66,6 +83,12 @@ I used [EnjoyHQ](https://www.usertesting.com/platform/enjoyhq) to review, tag, a
 <div class="gallery-box">
   <div class="gallery">
     <img src="/images/projects/dau/report-3.png" loading="lazy" alt="">
+    <img src="/images/projects/dau/survey.png" loading="lazy" alt="">
+  </div>
+</div>
+
+<div class="gallery-box">
+  <div class="gallery">
     <img src="/images/projects/dau/finding.jpg" B loading="lazy" alt="">
     <img src="/images/projects/dau/report-2.png" loading="lazy" alt="">
   </div>

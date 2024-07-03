@@ -82,6 +82,12 @@ This data is also used in aggregated formats by community partners to advocate f
 This work helped to articulate the value of including sleep and activity data to inform community advocacy efforts.
 
 # In the News
+<div class="gallery-box">
+  <div class="gallery">
+    <img src="https://news.utexas.edu/wp-content/uploads/2023/08/iStock-1345998266-scaled-1200x800-c-default.jpg" B loading="lazy" alt="News">
+  </div>
+    <em>Fitbits Perform Well in Capturing Circadian Rhythms but Not Sleep Time / <a href="https://news.utexas.edu/2023/08/08/fitbits-perform-well-in-capturing-circadian-rhythms-but-not-sleep-time/" target="_blank">UT News</a></em>
+</div>
 
 <div class="gallery-box">
   <div class="gallery">
