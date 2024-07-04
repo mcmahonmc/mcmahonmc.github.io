@@ -5,17 +5,9 @@ subtitle: Strategy / UX • Fiverr
 image: '/images/projects/teen-accounts/header.png'
 ---
 
-There are 32M teens in the US without an online marketplace that supports them in freelancing online. Fiverr wanted to explore how to strategically position themselves through marketing and product features in order to set teens and parents up for online freelancing success, and therefore expand their user base to a younger demographic.
+### There are 32M teens in the US without an online marketplace that supports them in freelancing online. Fiverr wanted to explore how to strategically position itself to set teens and parents up for online freelancing success, and therefore expand their user base to a younger demographic.
 
-Because minors cannot enter legally binding agreements, parental approval was key to our success. Through testing, we uncovered parents' priorities to enable teens to freelance safely and successfully through our platform.
-
-# My Role
-Led UX research support to identify how we might successfully encourage safe and successful teen freelancers, with enthusiastic permission and support from their parents.
-
-*In-depth interviews • Competitor analysis • Desk research • UserZoom • FigJam • Reduct*
-
-# Outcome
-This research identified misalignment with short-term business goals, resulting in re-evaluation of the project viability, reducing resource allocation and risk. Should this direction be re-prioritized, this research generated 17+ actionable recommendations for product development and marketing.
+### Parental approval was key to success since minors cannot enter legally binding agreements. I led UX research to identify how we might successfully encourage safe and successful teen freelancers, with enthusiastic permission and support from their parents.
 
 <div class="gallery-box">
   <div class="gallery">
@@ -40,7 +32,7 @@ Challenges:
 To develop the study plan, I focused initial stakeholder conversations around three main questions: 
 * What decisions are we trying to make with research insights?
 * What questions are most crucial to address?
-* What questions are within our current and future capabilities to answer? What would we need in order to address these questions?
+* What questions are within the team's current and future capabilities to answer? What would we need in order to address these questions?
 
 Because the company was bullish about this feature and were pushing an aggressive development timeline, we decided to pursue research on how parents navigated existing shared online account spaces, and what assurances they needed to feel comfortable with their teen freelancing online.
 
@@ -53,9 +45,10 @@ Because the company was bullish about this feature and were pushing an aggressiv
 </div>
 
 ## Recruitment
+
 We wanted to gather initial impressions from parents of teens who had never used Fiverr before, were comfortable with their teens performing some activities online, and passed attention checks. We segmented participants by whether they had heard of Fiverr before or not.
 
-We debated how to factor prior freelancing experience into our sample selection criteria. There was appetite to hear from parents with no prior freelancing experience, however, I speculated that that was perhaps a smaller audience than stakeholders expected. We elected not to set a criteria here to refrain from being overly selective in our sample. However, I made it clear that this was not a way to gather representative data and we should consider future testing with adequate sample size (8-10) representing each segment.  
+We debated how to factor prior freelancing experience into the sample selection criteria. There was appetite to hear from parents with no prior freelancing experience, however, I speculated that that was perhaps a smaller audience than stakeholders expected. We elected not to set a criteria here to refrain from being overly selective in the sample. However, I made it clear that this was not a way to gather representative data and we should consider future testing with adequate sample size (8-10) representing each segment.  
 
 ## Parent Interviews
 
@@ -93,7 +86,7 @@ I researched the examples of shared account spaces that parents mentioned during
 
 ## Report
 
-In the report, I summarized the key findings from parent interviews, the permissions sorting activity, and my desk research. When I presented these findings to our UX and Brand team, I shared video highlight reels, letting parents speak for themselves. Then I opened up the floor to the audience with the question, "What themes do you notice?" This drew out many of the key themes I discussed later on in the presentation, but also highlighted a few details I hadn't considered.
+In the report, I summarized the key findings from parent interviews, the permissions sorting activity, and my desk research. When I presented these findings to the UX and Brand team, I shared video highlight reels, letting parents speak for themselves. Then I opened up the floor to the audience with the question, "What themes do you notice?" This drew out many of the key themes I discussed later on in the presentation, but also highlighted a few details I hadn't considered.
 
 # Key Takeaways
 
@@ -104,7 +97,8 @@ In the report, I summarized the key findings from parent interviews, the permiss
 * __Investment needed for successful adoption:__ To make teen accounts successful, Fiverr would need to invest significantly in resources for financial and business education for teens, showcase successful teen freelancers to build trust, and assure parents and other users that teens can deliver with credibility.
 
 # Research Impact
-I shared my report with product leadership and design team to inform scoping estimations and inform feature specifications. Because of this research, **we uncovered that the likely outcome was in conflict with other business priorities.** The product team reassessed our readiness to invest significant resources in this initiative, and decided to take a step back and create a more detailed **concept proposal**.
+
+I shared my report with product leadership and design team to inform scoping estimations and inform feature specifications. Because of this research, **we uncovered that the likely outcome was in conflict with other business priorities.** The product team reassessed their readiness to invest significant resources in this initiative, and decided to take a step back and create a more detailed **concept proposal**.
 
 If this direction is re-prioritized, this research generated **17+ recommendations** to help the design and marketing teams pick up quickly with an understanding of how to configure default teen permissions, make a positive first impression on parents, differentiate through positioning as a teen learning experience, and build attractive parental controls features.
 
