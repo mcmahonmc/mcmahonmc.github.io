@@ -2,7 +2,7 @@
 title: URL Listing
 date: 2024-05-01
 subtitle: Simplifying Cross-Platform Listing on Mercari
-image: '/images/projects/url-listing/IMG_7018.png'
+image: '/images/projects/url-listing/header.png'
 ---
 # Streamlined Selling: The Power of Cross-Platform Integration
 
