@@ -5,16 +5,9 @@ subtitle: Tactical / UX • Science Museum of Virginia
 image: '/images/projects/science-museum/header.png'
 ---
 
-The [Science Museum of Virginia](https://smv.org) captivates hundreds of thousands of guests each year through experiential exhibits, unique artifacts, interactive technologies, innovative workshops, dynamic films, impressive live animals, hands-on makerspaces, interesting lab demos, and quirky original content. 
+### The [Science Museum of Virginia](https://smv.org) captivates hundreds of thousands of guests each year through experiential exhibits, unique artifacts, interactive technologies, innovative workshops, dynamic films, impressive live animals, hands-on makerspaces, interesting lab demos, and quirky original content. 
 
-I participated in a 2-hour workshop hosted by the [Richmond Design Group](https://www.linkedin.com/company/rvadsgn/), during which we conducted a heuristic analysis of the in-person Science Museum experience.
-
-# My Role
-We broke out into three groups to strategize and explore the museum. Each team member adopted the mindset of one of the science museum's key customers, for example: a teacher, grandparent or parent, and a child. As we made our way through the museum, we took note of these museum goers' experiences using the 5 E's of the customer journey framework. 
-
-Independently, I produced artifacts summarizing the thinking that went into the live workshop that day. Altogether, this project took about 4 hours - pretty quick!
-
-*Service design • Journey mapping • Heuristic evaluation • Figma*
+### I participated in a 2-hour workshop hosted by the [Richmond Design Group](https://www.linkedin.com/company/rvadsgn/), during which we conducted a heuristic analysis of the in-person Science Museum experience. Independently, I produced artifacts summarizing the thinking that went into the live workshop that day. Altogether, this project took about 4 hours - pretty quick!
 
 <div class="gallery-box">
   <div class="gallery">
