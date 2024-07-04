@@ -1,13 +1,17 @@
 ---
 title: High-Speed Service Design
 date: 2023-02-25
-subtitle: Tactical / UX • Science Museum of Virginia
+subtitle: Transformative UX Strategies for the Science Museum of Virginia
 image: '/images/projects/science-museum/header.png'
 ---
 
-### The [Science Museum of Virginia](https://smv.org) captivates hundreds of thousands of guests each year through experiential exhibits, unique artifacts, interactive technologies, innovative workshops, dynamic films, impressive live animals, hands-on makerspaces, interesting lab demos, and quirky original content. 
+# Reimagining Visitor Experiences at the Science Museum of Virginia
 
-### I participated in a 2-hour workshop hosted by the [Richmond Design Group](https://www.linkedin.com/company/rvadsgn/), during which we conducted a heuristic analysis of the in-person Science Museum experience. Independently, I produced artifacts summarizing the thinking that went into the live workshop that day. Altogether, this project took about 4 hours - pretty quick!
+The [Science Museum of Virginia](https://smv.org) captivates hundreds of thousands of guests each year through experiential exhibits, unique artifacts, interactive technologies, innovative workshops, dynamic films, impressive live animals, hands-on makerspaces, interesting lab demos, and quirky original content. 
+
+# A Transformative 2-Hour Session with Richmond Design Group
+
+I participated in a 2-hour workshop hosted by the [Richmond Design Group](https://www.linkedin.com/company/rvadsgn/), during which we conducted a heuristic analysis of the in-person Science Museum experience. Independently, I produced artifacts summarizing the thinking that went into the live workshop that day. Altogether, this project took about 4 hours - pretty quick!
 
 <div class="gallery-box">
   <div class="gallery">
@@ -18,9 +22,9 @@ image: '/images/projects/science-museum/header.png'
   <em>Service Design Workshop / <a href="https://www.linkedin.com/company/rvadsgn/" target="_blank">Richmond Design Group</a></em>
 </div>
 
-# Research Process
+# The Research Journey
 
-## Personas
+## Personas: Understanding Our Diverse Visitors
 
 Rather than consider our own personal experiences in the museum, we know that our core job as design thinkers is to put ourselves in the shoes of our users. Who may visit the Science Museum of Virginia? What are their unique motivations and needs? We discussed this as a group, and came up with a handful of key customer segments. I later fleshed these out as lo-fi personas to help us undersatnd guests' needs, wants, and pain points. These proto-personas were used to ground us in the mindsets of each of these types of guests as we completed the heuristic evaluation exercise. 
 
@@ -39,7 +43,7 @@ Rather than consider our own personal experiences in the museum, we know that ou
   <em>Sample Personas </em>
 </div>
 
-## Customer Journey Mapping 
+## Mapping the Journey: Exploring Visitor Touchpoints
 
 With our persona hats on, we explored the museum to identify touchpoints and potential problems associated with each of the 5 E's of the customer's journey: entice, enter, engage, exit, and extend.
 
@@ -55,7 +59,7 @@ It quickly became evident that there was a huge opportunity to improve wayfindin
    <em>Personas & Journey Mapping / <a href="https://www.figma.com/board/ogzJQwRQg6dyqoqSthloEq/Science-Museum-Service-Design?node-id=0-1&t=12F7h5RwaW06QJgu-1" target="_blank">See Full File in FigJam</a></em>
 </div>
 
-## Heuristic evaluation
+## Heuristic Evaluation: Identifying Usability Challenges
 
 Together we conducted an evaluation using established usability heuristics, or principles for designing user-friendly interfaces.
 
@@ -69,7 +73,7 @@ Again adopting the mindset of "Gus the Grandpa" and each of the other key segmen
   <em>Heuristic Evaluation / <a href="https://www.figma.com/proto/c3s8QpGsV3yzEmjSYIqMxZ/Science-Museum-Heuristic-Eval?node-id=7-1114&t=PpGnXly5xsKrQRg9-1" target="_blank">See Full Evaluation in Figma</a></em>
 </div>
 
-# Reflection
+# Reflections: Insights Gained from the Workshop
 
 The 2-hour workshop hosted by the [Richmond Design Group](https://www.linkedin.com/company/rvadsgn/), focusing on the Virginia Science Museum, was a valuable and insightful experience. Collaborating with fellow UX professionals on a heuristic evaluation and customer journey map provided a rich understanding of the museum's visitor experience.
 
