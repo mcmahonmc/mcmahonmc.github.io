@@ -9,7 +9,7 @@ image: '/images/projects/dau/header.png'
 
 In 2023, the typical Mercari user opened Mercari once or twice a week. Of Mercari's 23M users, only about 80k were active daily. By comparison, we knew that the typical Mercari user in Japan accessed the app at least once daily, indicating that we had a large opportunity to improve engagement on the US app. But we didn't know where to begin.
 
-# Research Process
+# The Research Journey
 
 ## Decoding the Challenge
 
