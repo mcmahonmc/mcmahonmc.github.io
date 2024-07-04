@@ -18,11 +18,11 @@ image: '/images/projects/science-museum/header.png'
   <em>Service Design Workshop / <a href="https://www.linkedin.com/company/rvadsgn/" target="_blank">Richmond Design Group</a></em>
 </div>
 
-# Our Research Process
+# Research Process
 
 ## Personas
 
-Rather than consider our own personal experiences in the museum, we know that our core job as design thinkers is to put ourselves in the shoes of our users. Who may visit the Science Museum of Virginia? What are their unique motivations and needs? We discussed this as a group, and came up with a handful of key customer segments. I later fleshed these out as lo-fi personas to help us undersatnd guests' needs, wants, and pain points. These personas were used to ground us in the mindsets of each of these types of guests as we completed the heuristic evaluation exercise. 
+Rather than consider our own personal experiences in the museum, we know that our core job as design thinkers is to put ourselves in the shoes of our users. Who may visit the Science Museum of Virginia? What are their unique motivations and needs? We discussed this as a group, and came up with a handful of key customer segments. I later fleshed these out as lo-fi personas to help us undersatnd guests' needs, wants, and pain points. These proto-personas were used to ground us in the mindsets of each of these types of guests as we completed the heuristic evaluation exercise. 
 
 <div class="gallery-box">
   <div class="gallery">

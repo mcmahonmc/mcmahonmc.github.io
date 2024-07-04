@@ -10,6 +10,7 @@ image: '/images/projects/url-listing/IMG_7018.png'
 ### An engineer proposed an idea at Go Bold Day, Mercari's bi-annual hackathon, to simplify cross-posting for power sellers by creating an import tool that picks up metadata from other sites and easily populates the Mercari listing form. This idea won the company-wide hackathon and was pursued for development.
 
 # Outcomes
+* __3x__ new daily listings
 * __+395k__ new listings in 1 month
 * __+1k__ new power sellers in 1 month
 
