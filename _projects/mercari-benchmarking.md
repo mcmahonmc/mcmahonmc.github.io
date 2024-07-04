@@ -1,22 +1,22 @@
 ---
 title: Measuring Momentum
 date: 2023-09-30
-subtitle: Creating a Systematic Approach to Track UX and Business Performance Over Time
+subtitle: Creating a Systematic Approach to Track Mercari's UX and Business Performance Over Time
 image: '/images/projects/benchmarking/header.png'
 ---
 
 # Forging a Path to UX Excellence
 
-### Mercari was on the cusp of developing three bold, new features. We needed a way to systematically monitor changes in ease of use, navigation, and core functionality over time.
+In 2023, Mercari was on the cusp of developing three bold, new features. We needed a way to systematically monitor changes in ease of use, navigation, and core functionality over time.
 
 # Setting the Stage for UX Evolution
-### I spearheaded a systematic benchmarking survey program to measure how our product aligned with company objectives and UX values over time, including ease of use, navigation, competitor engagement, & product performance.
+I spearheaded a systematic benchmarking survey program to measure how our product aligned with company objectives and UX values over time, including ease of use, navigation, competitor engagement, & product performance.
 
 <div class="gallery-box">
   <div class="gallery">
     <img src="/images/projects/benchmarking/dashboard-1.png" B loading="lazy" alt="Artifact">
   </div>
-   <em>Dashboard Screenshot</em>
+   <em>UX Benchmarking Dashboard</em>
 </div>
 
 # The Research Journey
@@ -105,7 +105,7 @@ Quantitative data historically has been more accessible to Mercari employees. Bu
 
 Because this was conducted on a quarterly basis, we were able to glean the relative prevalence of different pain points in relation to each quarter's rapid product changes.
 
-# Exploring New Frontiers: Leveraging Data for Future Growth
+## Leveraging Data for Future Insights
 
 Because of the size of this dataset, we can derive clusters based on a combination of users' attitudinal and behavioral data to inform user segmentation. As a personal project, I applied variable selection and  maximum likelihood estimation [cluster analysis](https://github.com/mcmahonmc/benchmarking/tree/main) in R using data collected in the first three benchmarking assessments to identify patterns in user characteristics. 
 
