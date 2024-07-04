@@ -1,6 +1,6 @@
 ---
 title: URL Listing
-date: 2024-04-01
+date: 2024-05-01
 subtitle: Simplifying Cross-Platform Listing on Mercari
 image: '/images/projects/url-listing/IMG_7018.png'
 ---

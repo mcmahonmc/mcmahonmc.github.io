@@ -1,6 +1,6 @@
 ---
 title: Secondhand Superstars
-date: 2023-03-30
+date: 2024-06-01
 subtitle: Charting Mercari's Course for Increased Engagement
 image: '/images/projects/dau/header.png'
 ---

@@ -1,6 +1,6 @@
 ---
 title: Measuring Momentum
-date: 2023-09-30
+date: 2024-04-01
 subtitle: Creating a Systematic Approach to Track Mercari's UX and Business Performance Over Time
 image: '/images/projects/benchmarking/header.png'
 ---

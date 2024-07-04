@@ -1,6 +1,6 @@
 ---
 title: NextGen Gig Economy
-date: 2024-05-22
+date: 2024-03-01
 subtitle: Strategic Vision - Pioneering Teen Freelancers on Fiverr
 image: '/images/projects/teen-accounts/header.png'
 ---
