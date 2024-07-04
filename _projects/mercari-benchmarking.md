@@ -5,18 +5,15 @@ subtitle: Benchmarking / UX • Mercari
 image: '/images/projects/benchmarking/header.png'
 ---
 
-Mercari was on the cusp of developing three bold, new features. We needed a way to systematically monitor changes in ease of use, navigation, and core functionality over time.
+### Mercari was on the cusp of developing three bold, new features. We needed a way to systematically monitor changes in ease of use, navigation, and core functionality over time.
 
-# My Role
+### I spearheaded a systematic benchmarking survey program to measure how our product aligned with company objectives and UX values over time, including ease of use, navigation, competitor engagement, & product performance.
 
-I conceptualized and developed a systematic benchmarking survey program to
-measure how our product aligned with company objectives and UX values over time, including ease of use, navigation, competitor engagement, & product performance.
+# Outcome
 
-*Live-intercept surveys • Looker • Statistics • Sprig*
+The UX Benchmarking dashboard allowed our research team to streamline analysis and reporting of rating scale, multiple choice, and open text survey responses collected from app users on a quarterly basis.
 
-# Outcomes
-
-The initial benchmarking survey led to search experiments designed to improve the relevance of search queries for items that either (1) returned few related results (low inventory), or (2) were in the clothing category.
+In its first iteration, the benchmarking survey led to search experiments designed to improve the relevance of search queries for items that either (1) returned few related results (low inventory), or (2) were in the clothing category.
 
 * __+13%__ orders via low-hit search queries
 * __+5%__ orders via clothing size searches
@@ -28,8 +25,6 @@ The initial benchmarking survey led to search experiments designed to improve th
   </div>
    <em>Dashboard Screenshot</em>
 </div>
-
-The UX Benchmarking dashboard allowed our research team to streamline analysis and reporting of rating scale, multiple choice, and open text survey responses collected from app users on a quarterly basis.
 
 # My Research Process
 

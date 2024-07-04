@@ -5,15 +5,9 @@ subtitle: Tactical / UX • Mercari
 image: '/images/projects/url-listing/IMG_7018.png'
 ---
 
-Mercari wanted to enable experienced sellers to easily list many listings at once. We knew that many experienced sellers cross-post, or use multiple resale platforms simultaneously, to increase their exposure and maximize their chance of making a sale.
+### Mercari wanted to enable experienced sellers to easily list many listings at once. We knew that many experienced sellers cross-post, or use multiple resale platforms simultaneously, to increase their exposure and maximize their chance of making a sale.
 
-An engineer proposed an idea at Go Bold Day, Mercari's bi-annual hackathon, to simplify cross-posting for power sellers by creating an import tool that picks up metadata from other sites and easily populates the Mercari listing form. This idea won the company-wide hackathon and was pursued for development.
-
-# My Role
-Before moving forward with implementation, I sought to clarify some of the assumptions behind the new feature. Through conversations with product managers, engineers, and UX designers, we identified questions that would help us make sense of the problem space, size the opportunity, validate assumptions, and inform design requirements.
-
-
-*Contextual inquiry • Moderated usability testing • Live intercept survey • Analytics*
+### An engineer proposed an idea at Go Bold Day, Mercari's bi-annual hackathon, to simplify cross-posting for power sellers by creating an import tool that picks up metadata from other sites and easily populates the Mercari listing form. This idea won the company-wide hackathon and was pursued for development.
 
 # Outcomes
 * __+395k__ new listings in 1 month
@@ -122,7 +116,6 @@ Second, some listers weren't aware of bulk editing capabilities - many were leav
 <div class="gallery-box">
   <div class="gallery">
     <img src="/images/projects/url-listing/daily-draft-items.png" B loading="lazy" alt="Artifact">
-    <img src="/images/projects/url-listing/design-2.png" B loading="lazy" alt="">
   </div>
   <em>Daily Draft Listings / Ready to List Zero State</em>
 </div>
@@ -131,11 +124,10 @@ Second, some listers weren't aware of bulk editing capabilities - many were leav
 
 Overall, this research guided the development of the URL listing feature from ideation through launch. Some of the key contributions of this research were:
 
-* Optimizing the new user flow to improve trust
-
 * Identifying key value propositions and narrowing our target audience
-
-* Increasing transparency through visual import progress and more specific error messages
+* Improved direct success rates in URL listing imports through clearer guidance, error messages and FAQs, and more intuitive design elements
+* Optimizing the new user flow for trust and exploration
+* Increasing confidence in import success through visual import progress
 
 <div class="gallery-box">
   <div class="gallery">
