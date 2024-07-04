@@ -1,9 +1,11 @@
 ---
 title: Sleep Tight, Think Right
 date: 2020-05-01
-subtitle: Quantitative / Academic • UT Austin
+subtitle: Advancing Research on Rest-Activity Rhythms and Brain Health
 image: '/images/projects/white-matter/header.png'
 ---
+
+# Advancing Research on Cognitive Aging through Accelerometer and Neuroimaging
 
 In healthy aging, older adults often report changes in their rest-activity rhythms, for example, increased morningness preference, earlier wake times, increased sleep latency, and decreased total sleep time. These patterns can be assessed objectively using wrist-based accelerometers, or actigraphs. 
 
