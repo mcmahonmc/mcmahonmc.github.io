@@ -94,3 +94,5 @@ This informed later directions for one of the company's major pillars, to facili
 I presented these insights to various audiences, including a product management offsite, an executive offsite, the UX team, and a company-wide show and tell. This research helped the organization focus its resources around key features that drive habit formation and helped crystallize our positioning to reflect what our most engaged users love best.
 
 > Megan led one of the most important studies in the product team's history, helping us understand who our core user base is, what their motivations are and what their key pain points are. This study is still essential to how we think about our customer base and product today.
+
+- Tank Mori, VP Product, Mercari US
