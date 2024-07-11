@@ -95,4 +95,4 @@ I presented these insights to various audiences, including a product management 
 
 > Megan led one of the most important studies in the product team's history, helping us understand who our core user base is, what their motivations are and what their key pain points are. This study is still essential to how we think about our customer base and product today.
 
-- Tank Mori, VP Product, Mercari US
+– Tank Mori, VP Product, Mercari US

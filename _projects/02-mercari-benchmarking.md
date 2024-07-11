@@ -27,11 +27,11 @@ I researched both prior internal approaches to benchmarking as well as external 
 
 I audited existing resources and budget for recruitment channels, then drafted a proposal based on the priorities and constraints I identified.
 
-## Listening to the Pulse: Gathering Stakeholder Insights
+## Gathering Stakeholder Insights
 
 Getting buy in and measuring what matters were crucial to the success of this project. While I conducted my own exploration, I scheduled 1:1 interviews both within and outside of the design team to understand what stakeholders would want to get out of a benchmarking program. Ultimately, a key theme was that we wanted to measure key UX values like ease of use and navigability, and remain adaptable irrespective of changes in company direction or prioritization. 
 
-## Crafting the Roadmap: Planning the Benchmarking Study
+## Crafting the Roadmap
 
 I asked stakeholders, including product managers, product leadership, product marketing managers, UX designers, and UX management, to help co-create the recruitment criteria and content. This was reviewed with UX, product managers, CRM, and product leadership.
 
@@ -50,7 +50,7 @@ I asked stakeholders, including product managers, product leadership, product ma
 I worked closely with Data Engineering to set up a Looker integration to
 facilitate data accessibility and triangulation. This way, incoming survey data from the benchmarking reports would automatically be visualized in a Looker dashboard, which could be filtered by other key segmentation criteria we were considering such as customer growth segment and age group.
 
-## Engaging Users: Survey Deployment and Incentives
+## Survey Deployment and Incentives
 
 I fielded the survey, which was administered as a shorter live-intecept survey with the option of continuing to a longer form, static link survey. We collected data on ease of use, navigability, core user tasks, product-market fit, and competitor experiences. 
 
@@ -68,7 +68,7 @@ I also got approval to offer a sweepstakes style incentive for the first time at
 In addition to tracking quarterly metrics like user satisfaction, ease of use, ease of navigation, and product-market fit, we also collected open-text feedback that was synthesized at first pass using Sprig's AI. Aided with manual
 inspection, three main opportunity areas emerged, including search (especially low-hit search queries and clothing queries), item discovery, and listing efficiency.
 
-## Sharing the Story: Presenting Findings to Drive Change
+## Presenting Findings to Drive Change
 
 I organized a recurring quarterly research share-out venue, which drew 70+ employees from across the entire organization. At the time, this was the majority of our US staff!
 
