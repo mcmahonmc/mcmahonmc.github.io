@@ -14,8 +14,6 @@ menu__settings:
       url: '/'
     - title: 'About'
       url: '/about/'
-    - title: 'Resources'
-      url: '/resources/'
     - title: 'Contact'
       url: '/contact/'
 
@@ -126,8 +124,6 @@ footer_menu__settings:
       url: '/'
     - title: 'About'
       url: '/about/'
-    - title: 'Resources'
-      url: '/resources/'
     - title: 'Contact'
       url: '/contact/'
 
