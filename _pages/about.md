@@ -26,7 +26,7 @@ image:
       <p>I utilize a blend of qualitative and quantitative research methods to bridge the gap between end-users and decision-makers. From in-depth interviews and diary studies to large-scale surveys and usability testing, I craft comprehensive research strategies that uncover nuanced insights and drive actionable outcomes.<br><br>
       My approach is holistic and collaborative. I believe in the power of interdisciplinary teamwork and regularly engage stakeholders across product, design, and engineering to ensure that our solutions are not only user-friendly but also feasible and impactful.</p>
       <div class="section__navigation">
-        <a href="https://drive.google.com/file/d/1XX6m9WlYoKzaZrN0X-jqKkML1EFU4LsF/view?usp=share_link" target="_blank" class="button button--primary section-button">See Resume</a>
+        <a href="https://www.linkedin.com/in/mcmahonmc/" target="_blank" class="button button--primary section-button">Connect on LinkedIn</a>
       </div><br><br>
       <h2>Off the Clock</h2>
       <p>I’m an avid explorer of national parks, a pickleball champion, an enthusiastic knitter, and a devoted mom to a lively yellow lab. In the Richmond community, you’ll often find me at <a href="https://www.linkedin.com/company/rvadsgn/" target="_blank">RVA Design Group</a> or <a href="https://www.linkedin.com/company/ladies-that-ux-richmond/" target="_blank">Ladies that UX Richmond</a>.
