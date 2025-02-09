@@ -128,9 +128,9 @@ You can find the code of your language here - https://www.w3schools.com/tags/ref
                             <!-- Content -->
                             <div class="col-lg-8 offset-lg-2">
     
-                                <h1>Simplifying Cross-Listing for Mercari's Power Sellers</h1>
+                                <h1>Simplifying Cross-Listing for Mercari's High Volume Sellers</h1>
     
-                                <p>Mercari sought to streamline the cross-listing experience for power sellers—those who manage large inventories and use multiple platforms to maximize their sales. Prior to this project, sellers were burdened by manual processes that slowed down their ability to list items efficiently across different sites. During Mercari’s bi-annual hackathon, an engineer proposed an idea to simplify this by creating an import tool that could pull metadata from other sites and easily populate Mercari’s listing form. The tool was designed to empower these experienced sellers, but to truly succeed, it needed to be intuitive, easy to navigate, and deeply aligned with the needs of power sellers.</p>
+                                <p>Mercari sought to streamline the cross-listing experience for high volume sellers—those who manage large inventories and use multiple platforms to maximize their sales. Prior to this project, sellers were burdened by manual processes that slowed down their ability to list items efficiently across different sites. During Mercari’s bi-annual hackathon, an engineer proposed an idea to simplify this by creating an import tool that could pull metadata from other sites and easily populate Mercari’s listing form. The tool was designed to empower these experienced sellers, but to truly succeed, it needed to be intuitive, easy to navigate, and deeply aligned with the needs of high volume sellers.</p>
     
                                 
                                         <div class="row">
@@ -157,7 +157,7 @@ You can find the code of your language here - https://www.w3schools.com/tags/ref
     
                                             <h2>Overview</h2>
     
-                                            <p>Mercari sought to empower experienced sellers—those managing large inventories and regularly cross-listing items across multiple resale platforms—to list items as easily and efficiently as possible. Many of these power sellers use multiple platforms, like eBay, to maximize exposure and increase their chances of making a sale. However, these sellers often find the cross-listing process cumbersome, requiring too much manual effort and discouraging them from fully leveraging cross-listing to its potential. Recognizing this, Mercari introduced an idea during its annual hackathon, Go Bold Day, where an engineer proposed using a large language model (LLM) tool to simplify the process by porting over high-quality listings from other sites like eBay. This proposal had great potential, but to succeed, the tool needed to be intuitive, seamless, and aligned with the needs of these power sellers.</p>
+                                            <p>Mercari sought to empower experienced sellers—those managing large inventories and regularly cross-listing items across multiple resale platforms—to list items as easily and efficiently as possible. Many of these high volume sellers use multiple platforms, like eBay, to maximize exposure and increase their chances of making a sale. However, these sellers often find the cross-listing process cumbersome, requiring too much manual effort and discouraging them from fully leveraging cross-listing to its potential. Recognizing this, Mercari introduced an idea during its annual hackathon, Go Bold Day, where an engineer proposed using a large language model (LLM) tool to simplify the process by porting over high-quality listings from other sites like eBay. This proposal had great potential, but to succeed, the tool needed to be intuitive, seamless, and aligned with the needs of these high volume sellers.</p>
     
                                             <p>I was brought in as the UX researcher to support the development of this tool, shaping its feature design based on real user feedback and advocating for the sellers’ needs throughout the process.</p>
     
@@ -167,31 +167,37 @@ You can find the code of your language here - https://www.w3schools.com/tags/ref
                                                 
                                                 <!-- Photo Item -->
                                                 <div class="col-lg-4">
-                                                    <img src="images/portfolio/mercari-oneurl/Method.png" alt=""  />
+                                                    <img src="images/portfolio/mercari-oneurl/Method.png" alt="Contextual inquiry method description"  />
                                                 </div>
                                                 <!-- End Photo Item -->
     
                                                 <!-- Photo Item -->
                                                 <div class="col-lg-4">
-                                                    <img src="images/portfolio/mercari-oneurl/Method-1.png" alt=""  />
+                                                    <img src="images/portfolio/mercari-oneurl/Method-1.png" alt="Usability testing method description"  />
                                                 </div>
                                                 <!-- End Photo Item -->
     
                                                 <!-- Photo Item -->
                                                 <div class="col-lg-4">
-                                                    <img src="images/portfolio/mercari-oneurl/Method-2.png" alt=""  />
+                                                    <img src="images/portfolio/mercari-oneurl/Method-2.png" alt="User analytics method description" class="mfp-image" />
                                                 </div>
                                                 <!-- End Photo Item -->
     
                                             </div>
     
-                                            <h3>Contextual Inquiry</h3>
+                                            <h3>Defining our target end user</h3>
     
-                                            <p>To understand the workflows of power sellers, I first conducted a contextual inquiry study observing the listing process for experienced eBay sellers who regularly list across multiple platforms. These conversations revealed their frustrations with current cross-listing tools and helped me uncover what would make the process smoother. Many sellers expressed skepticism toward automated listing tools, as they had experienced past tools that promised ease but ultimately didn’t deliver. They preferred spending more time upfront ensuring listings were done right, rather than dealing with complications later. This taught me that for this tool to be successful, it had to focus on clarity at every step—helping sellers seamlessly review items, including descriptions, photos, and shipping details—and provide trustworthy, step-by-step guidance throughout the process.</p>
+                                            <p>To understand the workflows of high volume sellers, I first worked with our project team to align on our definition of a high volume seller. Using analytics, we decided that a high volume seller would be considered someone who listed, not sold, at least 30 items per month. This was fairly drastic considering that the typical Mercari user listed about 6 items at one time, and typically these listing periods would occur seasonally through the year.</p>
+
+                                            <p>To help better characterize our target users, I designed a survey to gather more information about what kinds of platforms or third-party tools these high volumes might use to sell items online. This was also used as a recruitment tool for the next part of the study.</p>
+                                            
+                                            <h3>Contextual Inquiry</h3>
+
+                                            <p>I then conducted a contextual inquiry study observing the listing process for experienced eBay sellers who regularly list across multiple platforms. These conversations revealed their frustrations with current cross-listing tools and helped me uncover what would make the process smoother. Many sellers expressed skepticism toward automated listing tools, as they had experienced past tools that promised ease but ultimately didn’t deliver. They preferred spending more time upfront ensuring listings were done right, rather than dealing with complications later. This taught me that for this tool to be successful, it had to focus on clarity at every step—helping sellers seamlessly review items, including descriptions, photos, and shipping details—and provide trustworthy, step-by-step guidance throughout the process.</p>
     
                                             <h3>Usability Testing</h3>
     
-                                            <p>Building off the contextual inquiry study, we then moved forward to usability testing to examine how power sellers interacted with our prototype feature. I ran unmoderated tests with eight experienced sellers—each listing at least 30 items per month. Participants were asked to “think aloud” as they interacted with the tool, which helped me understand their thought processes, frustrations, and key challenges. The usability tests revealed several pain points:
+                                            <p>Building off the contextual inquiry study, we then moved forward to usability testing to examine how high volume sellers interacted with our prototype feature. I ran unmoderated tests with eight experienced sellers—each listing at least 30 items per month. Participants were asked to “think aloud” as they interacted with the tool, which helped me understand their thought processes, frustrations, and key challenges. The usability tests revealed several pain points:
     
                                                 <ul>
                                                     <li><b>Task 1: Completing the Import Form. </b>Sellers were confused about which URLs to input, struggled with choosing shipping options, and lacked clarity around the review step. Some mistakenly clicked the "Enter URL" breadcrumb, thinking it was a button.</li>
@@ -204,7 +210,7 @@ You can find the code of your language here - https://www.w3schools.com/tags/ref
     
                                             <h2>Findings</h2>
     
-                                            <p>These usability tests provided deep insights into what power sellers needed in order to adopt the tool successfully. Many sellers preferred tools that fit into their existing routines—something that felt familiar and intuitive. Sellers valued flexibility, but they also needed clear guidance and trust-building features to feel confident using the tool.</p>
+                                            <p>These usability tests provided deep insights into what high volume sellers needed in order to adopt the tool successfully. Many sellers preferred tools that fit into their existing routines—something that felt familiar and intuitive. Sellers valued flexibility, but they also needed clear guidance and trust-building features to feel confident using the tool.</p>
     
                                             <p>It became clear that many sellers were cautious about automated listing tools because they had been disappointed by similar tools in the past. Building trust—through clear instructions, visual progress indicators, and transparent explanations—was essential to getting them to use the tool regularly.</p>
     
@@ -252,11 +258,11 @@ You can find the code of your language here - https://www.w3schools.com/tags/ref
     
                                             <h2>Outcome</h2>
     
-                                            <p>The release of the URL listing feature led to:
+                                            <p>The release of the Import Listing feature led to:
                                                 <ul>
                                                     <li>3x increase in new daily listings.</li>
                                                     <li>395,000 new listings in the first month after launch.</li>
-                                                    <li>1,000 new power sellers using the import tool within the first month.</li>
+                                                    <li>1,000 new high volume sellers using the import tool within the first month.</li>
                                                 </ul>
     
                                                 These metrics demonstrated that the changes directly empowered sellers, helped them streamline their workflows, and encouraged more efficient cross-listing. The tool helped them maximize their efforts, making the process of moving items from other platforms to Mercari simpler and more effective.
@@ -269,7 +275,7 @@ You can find the code of your language here - https://www.w3schools.com/tags/ref
     
                                             <h2>Looking Back</h2>
     
-                                            <p>This project highlighted the importance of being proactive in turning research insights into actionable UX recommendations. I learned that simply presenting findings isn’t enough—especially when it comes to complex workflows. For this project, I tried running a virtual research poster session, where the team watched clips from usability testing with power sellers interacting with the tool and attempted to come to their own conclusions. While this did provide designers with firsthand exposure to user feedback, it wasn’t as fruitful as I had hoped. Designers needed more concrete UX guidance—clear, actionable steps that could immediately shape the next iteration of the tool.
+                                            <p>This project highlighted the importance of being proactive in turning research insights into actionable UX recommendations. I learned that simply presenting findings isn’t enough—especially when it comes to complex workflows. For this project, I tried running a virtual research poster session, where the team watched clips from usability testing with high volume sellers interacting with the tool and attempted to come to their own conclusions. While this did provide designers with firsthand exposure to user feedback, it wasn’t as fruitful as I had hoped. Designers needed more concrete UX guidance—clear, actionable steps that could immediately shape the next iteration of the tool.
     
                                             </p>
     
