@@ -1,0 +1,206 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-83CQW3WFGC"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-83CQW3WFGC');
+</script>
+<meta charset="UTF-8"/>
+<meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+<title>Mercari UX Benchmarking — Megan Brannan</title>
+<meta name="description" content="Case study: Building Mercari's first UX benchmarking program from scratch — and what it found."/>
+<link rel="preconnect" href="https://fonts.googleapis.com"/>
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin/>
+<link href="https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@0,400;0,500;1,400;1,500&family=DM+Sans:opsz,wght@9..40,300;9..40,400;9..40,500&display=swap" rel="stylesheet"/>
+<link rel="stylesheet" href="styles/base.css"/>
+<link rel="stylesheet" href="styles/benchmarking.css"/>
+</head>
+<body>
+
+<a href="#main-content" class="skip-link">Skip to main content</a>
+
+<nav aria-label="Site navigation">
+  <a href="index.html" class="nav-logo">Megan Brannan</a>
+  <a href="index.html#work" class="nav-back" aria-label="Back to all work">← All work</a>
+</nav>
+
+<main id="main-content">
+
+<header class="case-hero">
+  <div class="hero-inner">
+    <span class="hero-eyebrow reveal">UX Research · Mercari · 2023</span>
+    <h1 class="reveal d1">
+      Sometimes you need to<br/><em>build your own compass.</em>
+    </h1>
+    <p class="hero-summary reveal d2">
+      Mercari was planning major product changes with no consistent way to measure whether the experience was getting better or worse. <strong>I built the program that changed that</strong> — from a blank page to a quarterly VOC baseline used across product, data science, and marketing.
+    </p>
+    <div class="meta-strip reveal">
+      <div class="meta-item">
+        <span class="meta-label">Role</span>
+        <span class="meta-value">Senior UX Researcher</span>
+      </div>
+      <div class="meta-item">
+        <span class="meta-label">Methods</span>
+        <span class="meta-value">Survey · Benchmarking </span>
+      </div>
+      <div class="meta-item">
+        <span class="meta-label">Outcome</span>
+        <span class="meta-value">Quarterly Program · Looker Dashboard</span>
+      </div>
+    </div>
+  </div>
+</header>
+
+<div class="stat-band reveal" aria-label="Project outcomes">
+  <div class="stat">
+    <span class="stat-n">+22%</span>
+    <p class="stat-d">Search success rate after UX improvements</p>
+  </div>
+  <div class="stat">
+    <span class="stat-n">+13%</span>
+    <p class="stat-d">Orders in previously underperforming categories</p>
+  </div>
+  <div class="stat">
+    <span class="stat-n">50%+</span>
+    <p class="stat-d">Of the company attended the inaugural Lunch & Learn</p>
+  </div>
+</div>
+
+<div class="story">
+
+  <!-- PROBLEM -->
+  <section class="story-section reveal" aria-labelledby="h-problem">
+    <span class="section-eyebrow">The Problem</span>
+    <h2 id="h-problem">Big bets.<br/><em>No baseline.</em></h2>
+    <p>Mercari's leadership was excited about experimentation — new features, repositioned audiences, significant changes to the information architecture. What wasn't there: any consistent way to measure whether the experience was improving over time. Without a baseline, every research study was a snapshot with no context. <strong>I proposed building the program from scratch.</strong></p>
+  </section>
+
+  <!-- BUILDING -->
+  <section class="story-section reveal" aria-labelledby="h-build">
+    <span class="section-eyebrow">Building the Program</span>
+    <h2 id="h-build">Auditing what existed.<br/><em>Designing what didn't.</em></h2>
+    <p>I started by auditing existing measurement across the org — what was collected, where it lived, who owned it. The gaps were significant. From there I co-created a research plan with stakeholders across product, design, data science, and marketing, centering on five core measures:</p>
+  </section>
+
+  <div class="pillar-grid reveal" aria-label="Five benchmarking dimensions">
+    <div class="pillar">
+      <span class="pillar-n">1</span>
+      <p class="pillar-label">Product–market fit</p>
+    </div>
+    <div class="pillar">
+      <span class="pillar-n">2</span>
+      <p class="pillar-label">Ease of use</p>
+    </div>
+    <div class="pillar">
+      <span class="pillar-n">3</span>
+      <p class="pillar-label">Ease of navigation</p>
+    </div>
+    <div class="pillar">
+      <span class="pillar-n">4</span>
+      <p class="pillar-label">User motivations</p>
+    </div>
+    <div class="pillar">
+      <span class="pillar-n">5</span>
+      <p class="pillar-label">Competitor preferences</p>
+    </div>
+  </div>
+
+  <section class="story-section reveal" aria-labelledby="h-build2" style="padding-top:2rem">
+    <p>Once data was flowing, I worked with engineering to pipe results into Looker — giving the whole organization a live view of UX health. Getting buy-in required as much work as the research itself: gathering requirements from PMs, designers, analysts, and leadership, and building shared agreement on what we were measuring and why.</p>
+  </section>
+
+  <div class="img-full reveal" role="img" aria-label="Benchmarking dashboard in Looker">
+    <img src="images/portfolio/hero/mercari-benchmarking.png" alt="Mockup on desktop of Looker dashboard" />
+  </div>
+
+  <!-- FINDINGS -->
+  <section class="story-section reveal" aria-labelledby="h-findings">
+    <span class="section-eyebrow">What the Data Found</span>
+    <h2 id="h-findings">Search had been a hunch.<br/><em>Now it was a fact.</em></h2>
+    <p>Prior qualitative work had flagged search as a pain point — but qualitative signals are easy to deprioritize without numbers behind them. The benchmarking data changed that. For the first time, we had quantitative evidence that let us move from "users seem frustrated with search" to a precise, defensible problem statement the product team could act on.</p>
+  </section>
+
+  <div class="finding reveal">
+    <span class="finding-n">1</span>
+    <div>
+      <p class="finding-title">Saved search was the biggest friction point</p>
+      <p class="finding-body">Users couldn't easily differentiate new listings or prioritize their most important searches. Redesigning the experience based on benchmarking recommendations <strong>increased search success rate by 22%.</strong></p>
+    </div>
+  </div>
+
+  <div class="finding reveal">
+    <span class="finding-n">2</span>
+    <div>
+      <p class="finding-title">Search results pages were underselling good inventory</p>
+      <p class="finding-body">I recommended adapting result density by category and clustering by predicted relevance. The experiments that followed <strong>increased orders by 13% in previously underperforming categories.</strong></p>
+    </div>
+  </div>
+
+  <div class="finding reveal">
+    <span class="finding-n">3</span>
+    <div>
+      <p class="finding-title">The lite listing feature hadn't made listing easier</p>
+      <p class="finding-body">After being moved to a different team pre-launch, I ran a post-launch benchmarking study on my own initiative. The data showed the feature hadn't landed — open-ended responses suggested it may have made the experience harder. That finding became the brief that drove a redesign in Mercari JP, <strong>resulting in a significant increase in listings from new sellers.</strong> Mercari US later adopted the same approach.</p>
+    </div>
+  </div>
+
+  <div class="img-full reveal" role="img" aria-label="Search findings visualization or saved search before and after">
+     <img src="images/portfolio/mercari-benchmarking/mercari-search.png" alt="Mercari saved search iterations focused more on highlighting new items" />
+  </div>
+
+  <!-- IMPACT -->
+  <section class="story-section reveal" aria-labelledby="h-impact">
+    <span class="section-eyebrow">Impact</span>
+    <h2 id="h-impact">From scrappy to<br/><em>the connective tissue.</em></h2>
+    <p>The first report launched at a company-wide Lunch & Learn attended by over half of Mercari. Each quarter brought new collaborators — data scientists, customer success, and eventually a brand tracking partnership with Harris Poll. What started as a measurement gap became a shared source of truth that cross-functional teams actually used.</p>
+  </section>
+
+  <div class="pull reveal">
+    <blockquote>"We went from scrappy and haphazard experience measurement to a robust and rich system, which Megan is fully credited with."</blockquote>
+    <cite>— Thea Lee, Senior UX Research Manager, Mercari</cite>
+  </div>
+
+  <div class="tags reveal" aria-label="Methods and skills">
+    <span class="tag">Benchmarking</span>
+    <span class="tag">Survey Design</span>
+    <span class="tag">Quantitative Research</span>
+    <span class="tag">VOC Program Design</span>
+    <span class="tag">Looker</span>
+    <span class="tag">Stakeholder Alignment</span>
+    <span class="tag">Cross-functional Collaboration</span>
+  </div>
+
+</div>
+
+<div class="next">
+  <div class="next-inner">
+    <div>
+      <span class="next-label">Next project</span>
+      <h3>Teaching 24 Leaders to Fall<br/>in Love with the Problem</h3>
+    </div>
+    <a href="case-study-lead.html" class="next-btn">View case study →</a>
+  </div>
+</div>
+
+</main>
+
+<footer>
+  <span>© Megan Brannan, 2026</span>
+  <span>Service Design & UX Research · Richmond, VA</span>
+</footer>
+
+<script>
+const obs = new IntersectionObserver(entries => {
+  entries.forEach(e => { if (e.isIntersecting) e.target.classList.add('in'); });
+}, {threshold: 0.05, rootMargin: '0px 0px -30px 0px'});
+document.querySelectorAll('.reveal').forEach(el => obs.observe(el));
+</script>
+
+</body>
+</html>

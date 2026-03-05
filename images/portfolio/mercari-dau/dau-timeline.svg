@@ -1,0 +1,97 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 362" width="720" height="362">
+
+  <!-- background -->
+  <rect width="720" height="362" fill="#f8f8f7"/>
+
+  <!-- header -->
+  <text x="36" y="32" font-family="'DM Sans',sans-serif" font-size="9" font-weight="500" fill="#3d6b8e" letter-spacing="1.5">DAU RESEARCH · PROJECT TIMELINE · 7 WEEKS</text>
+  <line x1="36" y1="40" x2="684" y2="40" stroke="#e4e5e7" stroke-width="1"/>
+
+  <!--
+    Usable x: 36 → 684 = 648px across 7 weeks = 92.6px per week
+    Week starts: W1=36, W2=129, W3=221, W4=314, W5=406, W6=499, W7=591, end=684
+    Row y positions (bar height 26px, gap 8px):
+      Phase label Discovery: y=52
+      R1 Stakeholder interviews: y=60
+      R2 Desk research:         y=94
+      R3 Tool assessment:       y=128
+      Phase label Fieldwork:    y=166
+      R4 Kickoff milestone:     y=174
+      R5 Survey:                y=208
+      R6 Share-Out milestone:   y=208 (same row, after survey)
+      R7 Diary Study:           y=242
+      R8 Interviews:            y=276
+      R9 Final Share-Out:       y=276 (same row, after interviews)
+    Week labels: y=326
+    Legend: y=348
+  -->
+
+  <!-- grid lines -->
+  <line x1="129" y1="50" x2="129" y2="312" stroke="#e4e5e7" stroke-width="1" stroke-dasharray="3 3"/>
+  <line x1="221" y1="50" x2="221" y2="312" stroke="#e4e5e7" stroke-width="1" stroke-dasharray="3 3"/>
+  <line x1="314" y1="50" x2="314" y2="312" stroke="#e4e5e7" stroke-width="1" stroke-dasharray="3 3"/>
+  <line x1="406" y1="50" x2="406" y2="312" stroke="#e4e5e7" stroke-width="1" stroke-dasharray="3 3"/>
+  <line x1="499" y1="50" x2="499" y2="312" stroke="#e4e5e7" stroke-width="1" stroke-dasharray="3 3"/>
+  <line x1="591" y1="50" x2="591" y2="312" stroke="#e4e5e7" stroke-width="1" stroke-dasharray="3 3"/>
+
+  <!-- baseline -->
+  <line x1="36" y1="314" x2="684" y2="314" stroke="#e4e5e7" stroke-width="1"/>
+
+  <!-- week labels -->
+  <text x="36"  y="330" font-family="'DM Sans',sans-serif" font-size="11" font-weight="500" fill="#3d6b8e">Week 1</text>
+  <text x="129" y="330" font-family="'DM Sans',sans-serif" font-size="11" font-weight="500" fill="#3d6b8e">Week 2</text>
+  <text x="221" y="330" font-family="'DM Sans',sans-serif" font-size="11" font-weight="500" fill="#3d6b8e">Week 3</text>
+  <text x="314" y="330" font-family="'DM Sans',sans-serif" font-size="11" font-weight="500" fill="#3d6b8e">Week 4</text>
+  <text x="406" y="330" font-family="'DM Sans',sans-serif" font-size="11" font-weight="500" fill="#3d6b8e">Week 5</text>
+  <text x="499" y="330" font-family="'DM Sans',sans-serif" font-size="11" font-weight="500" fill="#3d6b8e">Week 6</text>
+  <text x="591" y="330" font-family="'DM Sans',sans-serif" font-size="11" font-weight="500" fill="#3d6b8e">Week 7</text>
+
+  <!-- ── DISCOVERY phase ── -->
+  <text x="38" y="57" font-family="'DM Sans',sans-serif" font-size="9" font-weight="500" fill="#969a9f" letter-spacing="1.5">DISCOVERY</text>
+
+  <!-- R1: Stakeholder interviews — W1 (36→129) -->
+  <rect x="36" y="62" width="93" height="26" rx="3" fill="#edf2f7" stroke="#3d6b8e" stroke-width="1.5"/>
+  <text x="82" y="79" font-family="'DM Sans',sans-serif" font-size="10" fill="#3d6b8e" text-anchor="middle">Interviews</text>
+
+  <!-- R2: Desk research — W1–W2 (36→221) -->
+  <rect x="36" y="96" width="185" height="26" rx="3" fill="#edf2f7" stroke="#3d6b8e" stroke-width="1.5"/>
+  <text x="128" y="113" font-family="'DM Sans',sans-serif" font-size="10" fill="#3d6b8e" text-anchor="middle">Desk research</text>
+
+  <!-- R3: Tool assessment — W1–W2 (36→221) -->
+  <rect x="36" y="130" width="185" height="26" rx="3" fill="#edf2f7" stroke="#3d6b8e" stroke-width="1.5"/>
+  <text x="128" y="147" font-family="'DM Sans',sans-serif" font-size="10" fill="#3d6b8e" text-anchor="middle">Tool assessment</text>
+
+  <!-- ── FIELDWORK phase ── -->
+  <text x="223" y="172" font-family="'DM Sans',sans-serif" font-size="9" font-weight="500" fill="#969a9f" letter-spacing="1.5">FIELDWORK</text>
+
+  <!-- R4: Kickoff milestone — W3 narrow (221→275) -->
+  <rect x="221" y="178" width="54" height="26" rx="3" fill="#3d6b8e"/>
+  <text x="248" y="195" font-family="'DM Sans',sans-serif" font-size="10" fill="#ffffff" text-anchor="middle" font-weight="500">Kickoff</text>
+
+  <!-- R5: Survey — W3–W4 (221→370) -->
+  <rect x="221" y="212" width="149" height="26" rx="3" fill="#edf2f7" stroke="#3d6b8e" stroke-width="1.5"/>
+  <text x="295" y="229" font-family="'DM Sans',sans-serif" font-size="10" fill="#3d6b8e" text-anchor="middle">Survey</text>
+
+  <!-- R6: Share-Out milestone — W4 (374→428) -->
+  <rect x="374" y="212" width="54" height="26" rx="3" fill="#3d6b8e"/>
+  <text x="401" y="229" font-family="'DM Sans',sans-serif" font-size="10" fill="#ffffff" text-anchor="middle" font-weight="500">Share-Out</text>
+
+  <!-- R7: Diary Study — W4–W6 (314→591) -->
+  <rect x="314" y="246" width="277" height="26" rx="3" fill="#edf2f7" stroke="#3d6b8e" stroke-width="1.5"/>
+  <text x="452" y="263" font-family="'DM Sans',sans-serif" font-size="10" fill="#3d6b8e" text-anchor="middle">Diary Study</text>
+
+  <!-- R8: Interviews — W5–W6 (406→591) -->
+  <rect x="406" y="280" width="185" height="26" rx="3" fill="#edf2f7" stroke="#3d6b8e" stroke-width="1.5"/>
+  <text x="498" y="297" font-family="'DM Sans',sans-serif" font-size="10" fill="#3d6b8e" text-anchor="middle">Interviews</text>
+
+  <!-- R9: Final Share-Out — W7 (591→645) -->
+  <rect x="591" y="280" width="54" height="26" rx="3" fill="#3d6b8e"/>
+  <text x="618" y="297" font-family="'DM Sans',sans-serif" font-size="10" fill="#ffffff" text-anchor="middle" font-weight="500">Share-Out</text>
+
+  <!-- legend -->
+  <rect x="36" y="344" width="14" height="10" rx="2" fill="#edf2f7" stroke="#3d6b8e" stroke-width="1.5"/>
+  <text x="56" y="353" font-family="'DM Sans',sans-serif" font-size="10" fill="#969a9f">Research activity</text>
+  <rect x="158" y="344" width="14" height="10" rx="2" fill="#3d6b8e"/>
+  <text x="178" y="353" font-family="'DM Sans',sans-serif" font-size="10" fill="#969a9f">Milestone</text>
+
+</svg>

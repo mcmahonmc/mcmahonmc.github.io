@@ -1,0 +1,131 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 620" width="1200" height="620">
+
+  <!-- background -->
+  <rect width="1200" height="620" fill="#f8f8f7"/>
+
+  <!-- header -->
+  <text x="60" y="52" font-family="'DM Sans',sans-serif" font-size="11" font-weight="500" fill="#3d6b8e" letter-spacing="2">RC PREPARE IMPLEMENTATION SURVEY · WEEKLY AND MONTHLY USERS</text>
+  <line x1="60" y1="64" x2="1140" y2="64" stroke="#e4e5e7" stroke-width="1"/>
+
+  <!-- ══════════════════════════════════════════
+       Q1: Implementation smoothness  (10 very smooth, 11 smooth)
+       ══════════════════════════════════════════ -->
+  <rect x="60" y="84" width="510" height="230" rx="4" fill="#ffffff" stroke="#e4e5e7" stroke-width="1.5"/>
+  <text x="80" y="114" font-family="'DM Sans',sans-serif" font-size="11" fill="#969a9f" font-weight="500" letter-spacing="1">Q1 · IMPLEMENTATION SMOOTHNESS</text>
+
+  <!-- bar: Very smooth  10/21 = 47.6%  → 268px of 300 scale -->
+  <text x="80" y="144" font-family="'DM Sans',sans-serif" font-size="12" fill="#565a60">Very smooth</text>
+  <rect x="80" y="150" width="360" height="20" rx="2" fill="#e4e5e7"/>
+  <rect x="80" y="150" width="172" height="20" rx="2" fill="#3d6b8e"/>
+  <text x="258" y="165" font-family="'DM Sans',sans-serif" font-size="11" fill="#3d6b8e" font-weight="500">10 (48%)</text>
+
+  <!-- bar: Smooth  11/21 = 52.4% → 188px -->
+  <text x="80" y="192" font-family="'DM Sans',sans-serif" font-size="12" fill="#565a60">Smooth</text>
+  <rect x="80" y="198" width="360" height="20" rx="2" fill="#e4e5e7"/>
+  <rect x="80" y="198" width="188" height="20" rx="2" fill="#5d89a8"/>
+  <text x="274" y="213" font-family="'DM Sans',sans-serif" font-size="11" fill="#5d89a8" font-weight="500">11 (52%)</text>
+
+  <!-- bar: Neutral  0 -->
+  <text x="80" y="240" font-family="'DM Sans',sans-serif" font-size="12" fill="#565a60">Neutral</text>
+  <rect x="80" y="246" width="360" height="20" rx="2" fill="#e4e5e7"/>
+  <text x="96" y="261" font-family="'DM Sans',sans-serif" font-size="11" fill="#c8c9cb">0</text>
+
+  <!-- callout -->
+  <rect x="80" y="282" width="360" height="24" rx="2" fill="#edf2f7"/>
+  <text x="260" y="298" font-family="'DM Sans',sans-serif" font-size="12" fill="#3d6b8e" font-weight="500" text-anchor="middle">100% rated rollout smooth or very smooth</text>
+
+  <!-- ══════════════════════════════════════════
+       Q2: Rollout support satisfaction  (13 very satisfied, 6 satisfied, 1 neutral)
+       ══════════════════════════════════════════ -->
+  <rect x="630" y="84" width="510" height="230" rx="4" fill="#ffffff" stroke="#e4e5e7" stroke-width="1.5"/>
+  <text x="650" y="114" font-family="'DM Sans',sans-serif" font-size="11" fill="#969a9f" font-weight="500" letter-spacing="1">Q2 · SATISFACTION WITH ROLLOUT SUPPORT</text>
+
+  <!-- Very satisfied  13/21 = 61.9% → 223px -->
+  <text x="650" y="144" font-family="'DM Sans',sans-serif" font-size="12" fill="#565a60">Very satisfied</text>
+  <rect x="650" y="150" width="360" height="20" rx="2" fill="#e4e5e7"/>
+  <rect x="650" y="150" width="223" height="20" rx="2" fill="#3d6b8e"/>
+  <text x="879" y="165" font-family="'DM Sans',sans-serif" font-size="11" fill="#3d6b8e" font-weight="500">13 (62%)</text>
+
+  <!-- Satisfied  6/21 = 28.6% → 103px -->
+  <text x="650" y="192" font-family="'DM Sans',sans-serif" font-size="12" fill="#565a60">Satisfied</text>
+  <rect x="650" y="198" width="360" height="20" rx="2" fill="#e4e5e7"/>
+  <rect x="650" y="198" width="103" height="20" rx="2" fill="#5d89a8"/>
+  <text x="759" y="213" font-family="'DM Sans',sans-serif" font-size="11" fill="#5d89a8" font-weight="500">6 (29%)</text>
+
+  <!-- Neutral  1/21 = 4.8% → 17px -->
+  <text x="650" y="240" font-family="'DM Sans',sans-serif" font-size="12" fill="#565a60">Neutral</text>
+  <rect x="650" y="246" width="360" height="20" rx="2" fill="#e4e5e7"/>
+  <rect x="650" y="246" width="17" height="20" rx="2" fill="#969a9f"/>
+  <text x="673" y="261" font-family="'DM Sans',sans-serif" font-size="11" fill="#969a9f" font-weight="500">1 (5%)</text>
+
+  <!-- callout -->
+  <rect x="650" y="282" width="360" height="24" rx="2" fill="#edf2f7"/>
+  <text x="830" y="298" font-family="'DM Sans',sans-serif" font-size="12" fill="#3d6b8e" font-weight="500" text-anchor="middle">90% satisfied or very satisfied</text>
+
+  <!-- ══════════════════════════════════════════
+       Q5: Overall tool satisfaction  (7 very satisfied, 11 satisfied, 2 neutral)
+       ══════════════════════════════════════════ -->
+  <rect x="60" y="336" width="510" height="248" rx="4" fill="#ffffff" stroke="#e4e5e7" stroke-width="1.5"/>
+  <text x="80" y="366" font-family="'DM Sans',sans-serif" font-size="11" fill="#969a9f" font-weight="500" letter-spacing="1">Q5 · OVERALL SATISFACTION WITH RC PREPARE</text>
+
+  <!-- Very satisfied  7/21 = 33.3% → 120px -->
+  <text x="80" y="396" font-family="'DM Sans',sans-serif" font-size="12" fill="#565a60">Very satisfied</text>
+  <rect x="80" y="402" width="360" height="20" rx="2" fill="#e4e5e7"/>
+  <rect x="80" y="402" width="120" height="20" rx="2" fill="#3d6b8e"/>
+  <text x="206" y="417" font-family="'DM Sans',sans-serif" font-size="11" fill="#3d6b8e" font-weight="500">7 (33%)</text>
+
+  <!-- Satisfied  11/21 = 52.4% → 188px -->
+  <text x="80" y="444" font-family="'DM Sans',sans-serif" font-size="12" fill="#565a60">Satisfied</text>
+  <rect x="80" y="450" width="360" height="20" rx="2" fill="#e4e5e7"/>
+  <rect x="80" y="450" width="188" height="20" rx="2" fill="#5d89a8"/>
+  <text x="274" y="465" font-family="'DM Sans',sans-serif" font-size="11" fill="#5d89a8" font-weight="500">11 (52%)</text>
+
+  <!-- Neutral  2/21 = 9.5% → 34px -->
+  <text x="80" y="492" font-family="'DM Sans',sans-serif" font-size="12" fill="#565a60">Neutral</text>
+  <rect x="80" y="498" width="360" height="20" rx="2" fill="#e4e5e7"/>
+  <rect x="80" y="498" width="34" height="20" rx="2" fill="#969a9f"/>
+  <text x="120" y="513" font-family="'DM Sans',sans-serif" font-size="11" fill="#969a9f" font-weight="500">2 (10%)</text>
+
+  <!-- Dissatisfied  0 -->
+  <text x="80" y="540" font-family="'DM Sans',sans-serif" font-size="12" fill="#c8c9cb">Dissatisfied</text>
+  <rect x="80" y="546" width="360" height="20" rx="2" fill="#f0f0ee"/>
+  <text x="96" y="561" font-family="'DM Sans',sans-serif" font-size="11" fill="#c8c9cb">0</text>
+
+  <!-- ══════════════════════════════════════════
+       Q6: Effectiveness  (2 yes a lot, 12 somewhat, 4 not really, 2 not at all)
+       ══════════════════════════════════════════ -->
+  <rect x="630" y="336" width="510" height="248" rx="4" fill="#ffffff" stroke="#e4e5e7" stroke-width="1.5"/>
+  <text x="650" y="366" font-family="'DM Sans',sans-serif" font-size="11" fill="#969a9f" font-weight="500" letter-spacing="1">Q6 · HAS RC PREPARE HELPED YOU BE MORE EFFECTIVE?</text>
+
+  <!-- Yes, a lot  2/20 = 10% → 36px -->
+  <text x="650" y="396" font-family="'DM Sans',sans-serif" font-size="12" fill="#565a60">Yes, a lot</text>
+  <rect x="650" y="402" width="360" height="20" rx="2" fill="#e4e5e7"/>
+  <rect x="650" y="402" width="36" height="20" rx="2" fill="#3d6b8e"/>
+  <text x="692" y="417" font-family="'DM Sans',sans-serif" font-size="11" fill="#3d6b8e" font-weight="500">2 (10%)</text>
+
+  <!-- Somewhat  12/20 = 60% → 216px -->
+  <text x="650" y="444" font-family="'DM Sans',sans-serif" font-size="12" fill="#565a60">Somewhat</text>
+  <rect x="650" y="450" width="360" height="20" rx="2" fill="#e4e5e7"/>
+  <rect x="650" y="450" width="216" height="20" rx="2" fill="#5d89a8"/>
+  <text x="872" y="465" font-family="'DM Sans',sans-serif" font-size="11" fill="#5d89a8" font-weight="500">12 (60%)</text>
+
+  <!-- Not really  4/20 = 20% → 72px -->
+  <text x="650" y="492" font-family="'DM Sans',sans-serif" font-size="12" fill="#565a60">Not really</text>
+  <rect x="650" y="498" width="360" height="20" rx="2" fill="#e4e5e7"/>
+  <rect x="650" y="498" width="72" height="20" rx="2" fill="#c8c9cb"/>
+  <text x="728" y="513" font-family="'DM Sans',sans-serif" font-size="11" fill="#969a9f" font-weight="500">4 (20%)</text>
+
+  <!-- Not at all  2/20 = 10% → 36px -->
+  <text x="650" y="540" font-family="'DM Sans',sans-serif" font-size="12" fill="#565a60">Not at all</text>
+  <rect x="650" y="546" width="360" height="20" rx="2" fill="#e4e5e7"/>
+  <rect x="650" y="546" width="36" height="20" rx="2" fill="#c8c9cb"/>
+  <text x="692" y="561" font-family="'DM Sans',sans-serif" font-size="11" fill="#969a9f" font-weight="500">2 (10%)</text>
+
+  <!-- effectiveness note — this is the honest nuance -->
+  <rect x="650" y="570" width="360" height="24" rx="2" fill="#fef9f0"/>
+  <text x="830" y="586" font-family="'DM Sans',sans-serif" font-size="11" fill="#8a6a2e" text-anchor="middle">70% said it helped their service delivery</text>
+
+  <!-- footnote -->
+  <text x="60" y="605" font-family="'DM Sans',sans-serif" font-size="11" fill="#969a9f">Survey conducted post-launch · First pilot cohort of RC Prepare users</text>
+
+</svg>

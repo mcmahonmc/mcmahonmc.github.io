@@ -1,0 +1,6 @@
+.shift-list{list-style:none;margin:2rem 0;display:flex;flex-direction:column;gap:0}
+.shift-item{display:grid;grid-template-columns:1fr 1.5rem 1fr;gap:1rem;align-items:center;padding:1rem 0;border-top:1px solid var(--rule)}
+.shift-item:last-child{border-bottom:1px solid var(--rule)}
+.shift-no{font-family:var(--sans);font-size:1rem;color:var(--dim);text-decoration:line-through}
+.shift-arrow{font-family:var(--sans);color:var(--accent);text-align:center;font-size:1.1rem}
+.shift-yes{font-family:var(--sans);font-size:1rem;color:var(--ink);font-weight:500}

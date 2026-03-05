@@ -1,0 +1,6 @@
+.agenda{margin:2rem 0}
+.agenda-item{display:grid;grid-template-columns:2.5rem 1fr;gap:1.25rem;padding:1.25rem 0;border-top:1px solid var(--rule);align-items:baseline}
+.agenda-item:last-child{border-bottom:1px solid var(--rule)}
+.agenda-n{font-family:var(--serif);font-style:italic;font-size:1.1rem;color:var(--accent);line-height:1}
+.agenda-title{font-family:var(--sans);font-size:1rem;font-weight:500;color:var(--ink);display:block;margin-bottom:0.2rem}
+.agenda-desc{font-family:var(--serif);font-size:1rem;color:var(--mid);line-height:1.7}
